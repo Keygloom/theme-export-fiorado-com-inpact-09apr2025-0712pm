@@ -1,1 +1,375 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/a-photo-of-an-orthopedic-store-named-fio_6J3WJLRWQZGBwVqrSkn2lA_IeDmJDpoRKmSNsVQPMysBA.jpg","mobile_image":"shopify:\/\/shop_images\/a-photo-of-an-orthopedic-store-named-fio_6J3WJLRWQZGBwVqrSkn2lA_IeDmJDpoRKmSNsVQPMysBA.jpg","content_max_width":860,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"Stijlvolle ondersteuning voor elke stap","heading_tag":"h2","button_text":"Bekijk hier","button_link":"shopify:\/\/collections\/all","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30,"background":"","background_gradient":""}}},"block_order":["slide-1"],"settings":{"full_width":true,"allow_transparent_header":true,"show_initial_transition":false,"image_size":"auto","controls_type":"numbers","transition_type":"fade_with_text","autoplay":true,"cycle_speed":6,"background":"#f2f2f2","background_gradient":"linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"}},"featured_collection_LtGnYE":{"type":"featured-collection","settings":{"collection":"","products":["relaxfit-schoenen","orthotrail-schoenen","nailclear-pro","flexfit-compressiekousen","aircushion-zolen","steunfit-enkelband-set"],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":3,"subheading":"","title":"Onze Bestsellers","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"image_with_text_overlay_DdMxN9":{"type":"image-with-text-overlay","blocks":{"subheading_3Uy8BL":{"type":"subheading","settings":{"text":"Populair"}},"heading_em8hcM":{"type":"heading","settings":{"text":"RelaxFit Schoenen","heading_tag":"h2"}},"richtext_xFCbcM":{"type":"richtext","settings":{"content":"<p>Lichtgewicht, ademend en schokabsorberend voor ultiem comfort. De ergonomische zool biedt pijnverlichting en ondersteuning, terwijl het stijlvolle slip-on design moeiteloze elegantie toevoegt. <strong>Loop zonder zorgen, de hele dag door!<\/strong><\/p>"}},"button_TmURaq":{"type":"button","settings":{"style":"fill","size":"lg","text":"Shop hier","url":"shopify:\/\/products\/relaxfit-schoenen","background":"","text_color":""}}},"block_order":["subheading_3Uy8BL","heading_em8hcM","richtext_xFCbcM","button_TmURaq"],"settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","image":"shopify:\/\/shop_images\/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg","mobile_image":"shopify:\/\/shop_images\/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"images_with_text_scrolling_r9eGzQ":{"type":"images-with-text-scrolling","blocks":{"item_47Cmti":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/female-doctor-wearing-protective-clothing.jpg","icon":"none","icon_width":24,"title":"","content":"<p>Elke stap zou moeiteloos moeten voelen – zonder pijn, zonder vermoeidheid. De juiste schoenen ondersteunen je voeten op een natuurlijke manier, verlichten drukpunten en zorgen voor balans. Ze geven je niet alleen comfort, maar ook vrijheid: om langer te lopen, meer te genieten en zonder zorgen in beweging te blijven. <\/p><p><strong>Dr. Emma Hielstra, Podotherapie Chirurg<\/strong><\/p>"}},"item_EUeMwL":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/female-patient-undergoing-physical-therapy.jpg","icon":"none","icon_width":48,"title":"","content":"<p>De orthopedische schoenen van Fiorado bieden uitstekende comfort en ondersteuning. Dankzij de ergonomische pasvorm en schokabsorberende zool verminderen ze voetklachten en verbeteren ze de loophouding.  Een aanrader voor wie op zoek is naar kwalitatief orthopedisch schoeisel!<\/p><p><strong>Dr. Margaux van der Meer,                                               Orthomoleculair Adviseur<\/strong><\/p>"}},"item_mCNeaD":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/man-doing-fitness-home-using-elastic-band.jpg","icon":"none","icon_width":48,"title":"","content":"<p>Goede schoenen doen meer dan alleen comfort bieden – ze verbeteren je houding, verminderen gewrichtsbelasting en stimuleren een gezonde bloedsomloop. Ze zorgen niet alleen voor gezonde voeten, maar dragen bij aan een beter algeheel welzijn.<\/p><p><strong>Dr. Martijn van den Voorde, Podoloog<\/strong><\/p>"}}},"block_order":["item_47Cmti","item_EUeMwL","item_mCNeaD"],"settings":{"full_width":true,"stack_on_mobile":false,"show_counter":true,"desktop_image_effect":"reveal","image_position":"end","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"impact-text":{"type":"impact-text","settings":{"full_width":true,"stack_mobile":true,"text_alignment":"center","impact_text_style":"fill","text_divider":"none","impact_text_size_ratio":1,"background":"","background_gradient":"","heading_text_color":"","heading_gradient":"linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)","text_color":"","button_background":"","button_text_color":""}},"image_with_text_overlay_RwgW9X":{"type":"image-with-text-overlay","blocks":{"heading_J9YPgG":{"type":"heading","settings":{"text":"NailClear Pro","heading_tag":"h2"}},"richtext_LwDJw7":{"type":"richtext","settings":{"content":"<p>Herstel je nagels en verwijder schimmelinfecties met NailClear Pro! Dit innovatieve apparaat gebruikt blauwlichttherapie en infrarood laser om infecties te bestrijden, pijn te verlichten en nagels te versterken.<\/p>"}},"button_FwC9gW":{"type":"button","settings":{"style":"fill","size":"lg","text":"Shop hier","url":"shopify:\/\/products\/nailclear-pro","background":"","text_color":""}}},"block_order":["heading_J9YPgG","richtext_LwDJw7","button_FwC9gW"],"settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","image":"shopify:\/\/shop_images\/0801-5-1_c0feae37-938f-4b62-a2cb-df42a20a332d.png","mobile_image":"shopify:\/\/shop_images\/0801-5-1_c0feae37-938f-4b62-a2cb-df42a20a332d.png","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"press":{"type":"press","blocks":{"16644243327ba53d2a-0":{"type":"quote","settings":{"logo_width":100,"author":"Lisa de Vries","content":"Ik was altijd sceptisch over orthopedische schoenen, maar deze hebben mijn verwachtingen overtroffen. Ze bieden geweldige ondersteuning zonder in te leveren op stijl.","show_rating":true,"rating":5}},"quote_hhknnQ":{"type":"quote","settings":{"logo_width":100,"author":"Sophie Bakker","content":"De kwaliteit is uitstekend, het voelt duurzaam aan en werkt precies zoals beloofd. Ik ben er ontzettend tevreden mee en zou het zonder twijfel opnieuw kopen!","show_rating":true,"rating":5}},"16644243327ba53d2a-1":{"type":"quote","settings":{"logo_width":100,"author":"Emma van Dijk","content":"De schoenen zijn van hoge kwaliteit en doen precies wat ze beloven. Ze zijn gebruiksvriendelijk, duurzaam en voldoen volledig aan mijn verwachtingen.","show_rating":true,"rating":5}}},"block_order":["16644243327ba53d2a-0","quote_hhknnQ","16644243327ba53d2a-1"],"settings":{"full_width":true,"content_size":"small","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","logo_item_background":"","logo_item_border":""}},"faq":{"type":"faq","blocks":{"166442457738b23caf-0":{"type":"item","settings":{"title":"Welke maten zijn er beschikbaar?","content":"<p>Al onze producten komen met een bijgevoegde maattabel zodat je zeker de juiste maat kiest.<\/p>"}},"166442457738b23caf-1":{"type":"item","settings":{"title":"Kan ik mijn bestelling retourneren?","content":"<p>Ja, retourneren is tot 30 dagen na ontvangst mogelijk. Meer info hierover kan je terugvinden in onze refund policy.<\/p>"}},"item_CeWA7t":{"type":"item","settings":{"title":"Hoe lang duurt het voordat mijn bestelling arriveert?","content":"<p>Elke bestelling wordt zorgvuldig gevolgd en verpakt. De verwerking duurt gemiddeld 1-2 werkdagen.<\/p><p>Zodra de bestelling verzonden is, ontvangt u een trackingsnummer in je e-mailadres. Verwachtte leveringstijd is binnen 6-12 dagen binnen Europa.<\/p>"}},"166442457738b23caf-2":{"type":"item","settings":{"title":"Andere vragen?","content":"<p>Je kan ons altijd contacteren in onze contact pagina. Daar helpen we je graag verder.<\/p>"}}},"block_order":["166442457738b23caf-0","166442457738b23caf-1","item_CeWA7t","166442457738b23caf-2"],"settings":{"full_width":false,"subheading":"","title":"Veelgestelde Vragen","content":"<p>Hier vind je antwoorden op de meest gestelde vragen. Als je vraag er niet bij staat, neem dan gerust contact met ons op. We helpen je graag verder!<\/p>","team_avatar_width":160,"support_hours":"Onze klantenservice is elke dag beschikbaar van 8-19 uur.","answer_time":"","button_text":"","button_url":"","text_position":"start","background":"#ffffff","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","button_background":"","button_text_color":"","accordion_background":"","accordion_text_color":""}}},"order":["slideshow","featured_collection_LtGnYE","image_with_text_overlay_DdMxN9","images_with_text_scrolling_r9eGzQ","impact-text","image_with_text_overlay_RwgW9X","press","faq"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
+            "mobile_image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
+            "content_max_width": 860,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Stylowe wsparcie na każdy Twój krok",
+            "heading_tag": "h2",
+            "button_text": "Zobacz tutaj",
+            "button_link": "shopify://collections/all",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "featured_collection_LtGnYE": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "relaxfit-schoenen",
+          "orthotrail-schoenen",
+          "nailclear-pro",
+          "flexfit-compressiekousen",
+          "aircushion-zolen",
+          "steunfit-enkelband-set"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nasze Bestsellery",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "image_with_text_overlay_DdMxN9": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_3Uy8BL": {
+          "type": "subheading",
+          "settings": {
+            "text": "Popularny"
+          }
+        },
+        "heading_em8hcM": {
+          "type": "heading",
+          "settings": {
+            "text": "RelaxFit Buty",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_xFCbcM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Lekki, oddychający i amortyzujący dla maksymalnego komfortu. Ergonomiczna podeszwa zapewnia ulgę w bólu i wsparcie, a stylowy design wsuwany dodaje swobodnej elegancji. <strong>Chodź bez obaw – przez cały dzień!</strong><br/></p>"
+          }
+        },
+        "button_TmURaq": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Kup tutaj",
+            "url": "shopify://products/relaxfit-schoenen",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3Uy8BL",
+        "heading_em8hcM",
+        "richtext_xFCbcM",
+        "button_TmURaq"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "images_with_text_scrolling_r9eGzQ": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_47Cmti": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/female-doctor-wearing-protective-clothing.jpg",
+            "icon": "none",
+            "icon_width": 24,
+            "title": "",
+            "content": "<p>Każdy krok powinien być lekki – bez bólu, bez zmęczenia. Odpowiednie obuwie wspiera stopy w naturalny sposób, odciąża wrażliwe punkty i zapewnia równowagę. Daje nie tylko komfort, ale i wolność: by chodzić dłużej, cieszyć się bardziej i poruszać się bez obaw.<br/><br/><em><strong>Dr Emma Hielstra, specjalistka podologii chirurgicznej</strong></em></p>"
+          }
+        },
+        "item_EUeMwL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/female-patient-undergoing-physical-therapy.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Ortopedyczne buty Fiorado oferują wyjątkowy komfort i wsparcie. Dzięki ergonomicznemu dopasowaniu i amortyzującej podeszwie zmniejszają dolegliwości stóp i poprawiają postawę podczas chodzenia. To doskonały wybór dla osób poszukujących wysokiej jakości obuwia ortopedycznego!</p><p><em><strong>Dr Margaux Nowicka, doradczyni ortomolekularna</strong></em></p>"
+          }
+        },
+        "item_mCNeaD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/man-doing-fitness-home-using-elastic-band.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Dobre obuwie to nie tylko komfort – poprawia postawę, zmniejsza obciążenie stawów i wspomaga zdrowe krążenie. Dbają nie tylko o zdrowe stopy, ale także przyczyniają się do ogólnego dobrego samopoczucia.</p><p><strong>Dr n. med. Marcin Kowalski, Podolog</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_47Cmti",
+        "item_EUeMwL",
+        "item_mCNeaD"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_RwgW9X": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_J9YPgG": {
+          "type": "heading",
+          "settings": {
+            "text": "NailClear Pro",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_LwDJw7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Napraw swoje paznokcie i usuń infekcje grzybicze dzięki <strong>NailClear Pro</strong>! To innowacyjne urządzenie wykorzystuje terapię niebieskim światłem i laser na podczerwień do zwalczania infekcji, łagodzenia bólu i wzmacniania paznokci.</p>"
+          }
+        },
+        "button_FwC9gW": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Kup tutaj",
+            "url": "shopify://products/nailclear-pro",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_J9YPgG",
+        "richtext_LwDJw7",
+        "button_FwC9gW"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Anna Nowak",
+            "content": "Zawsze byłem sceptycznie nastawiony do butów ortopedycznych, ale te przerosły moje oczekiwania. Oferują świetne wsparcie bez uszczerbku dla stylu.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_hhknnQ": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Katarzyna Zielińska",
+            "content": "Jakość jest doskonała, jest trwały i działa dokładnie tak, jak obiecano. Jestem z niego niesamowicie zadowolony i bez wątpienia kupiłbym go ponownie!",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Magdalena Wiśniewska",
+            "content": "Buty są wysokiej jakości i robią dokładnie to, co obiecują. Są przyjazne dla użytkownika, trwałe i w pełni spełniają moje oczekiwania.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "quote_hhknnQ",
+        "16644243327ba53d2a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Jakie rozmiary są dostępne?",
+            "content": "<p>Wszystkie nasze produkty są dostarczane z załączoną tabelą rozmiarów, dzięki czemu z pewnością wybierzesz odpowiedni rozmiar.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Czy mogę zwrócić moje zamówienie?",
+            "content": "<p>Tak, zwroty są możliwe do 30 dni po otrzymaniu przesyłki. Więcej informacji na ten temat można znaleźć w naszej polityce zwrotów.</p>"
+          }
+        },
+        "item_CeWA7t": {
+          "type": "item",
+          "settings": {
+            "title": "Jak długo potrwa dostawa mojego zamówienia?",
+            "content": "<p>Każde zamówienie jest starannie śledzone i pakowane. Przetwarzanie zajmuje średnio 1-2 dni robocze. Po wysłaniu zamówienia otrzymasz numer śledzenia na swój adres e-mail. Przewidywany czas dostawy na terenie Europy wynosi 6-12 dni.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Inne pytania?",
+            "content": "<p>Zawsze możesz skontaktować się z nami na naszej stronie kontaktowej. Z przyjemnością Ci tam pomożemy.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "item_CeWA7t",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Często zadawane pytania",
+        "content": "<p>Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania. Jeśli Twojego pytania nie ma na liście, skontaktuj się z nami. Z przyjemnością pomożemy!</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Nasz zespół obsługi klienta jest dostępny codziennie od 8:00 do 19:00.",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_collection_LtGnYE",
+    "image_with_text_overlay_DdMxN9",
+    "images_with_text_scrolling_r9eGzQ",
+    "impact-text",
+    "image_with_text_overlay_RwgW9X",
+    "press",
+    "faq"
+  ]
+}
