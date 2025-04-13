@@ -56,7 +56,7 @@
       "settings": {
         "collection": "",
         "products": [
-          "relaxfit-schoenen",
+          "relaxfit-buty",
           "orthotrail-schoenen",
           "nailclear-pro",
           "flexfit-compressiekousen",
@@ -111,7 +111,7 @@
             "style": "fill",
             "size": "lg",
             "text": "Kup tutaj",
-            "url": "shopify://products/relaxfit-schoenen",
+            "url": "shopify://products/relaxfit-buty",
             "background": "",
             "text_color": ""
           }
