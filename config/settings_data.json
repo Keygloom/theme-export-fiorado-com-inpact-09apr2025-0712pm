@@ -63,7 +63,7 @@
       },
       "4571859552318407796": {
         "type": "shopify://apps/glo-color-swatch-variant-image/blocks/app-embed-block/4394f710-096c-4021-bbde-8ebb26057c11",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "customCssGCW": "/* Kleurbolletjes afronden en netjes uitlijnen */\ninput[type=\"radio\"].swatch__input + label.swatch__label {\n  border-radius: 50%;\n  border: 2px solid #ccc;\n  width: 40px;\n  height: 40px;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  margin: 4px;\n  transition: all 0.2s ease;\n  cursor: pointer;\n}\n\n/* Hover effect */\ninput[type=\"radio\"].swatch__input + label.swatch__label:hover {\n  border-color: #000;\n  transform: scale(1.1);\n}\n\n/* Actieve swatch (geselecteerd) */\ninput[type=\"radio\"].swatch__input:checked + label.swatch__label {\n  border-color: #000;\n  box-shadow: 0 0 0 2px #fff inset;\n}"
         }
