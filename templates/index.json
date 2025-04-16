@@ -364,6 +364,18 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "trust_pilot_4R3za7": {
+      "type": "TrustPilot",
+      "name": "Trustpilot",
+      "settings": {
+        "enb": true,
+        "review_heading": "",
+        "verified_heading": "",
+        "main_rating_stars": "4.5",
+        "title": "Fiorado",
+        "text": ""
+      }
     }
   },
   "order": [
@@ -374,6 +386,7 @@
     "impact-text",
     "image_with_text_overlay_RwgW9X",
     "press",
-    "faq"
+    "faq",
+    "trust_pilot_4R3za7"
   ]
 }
