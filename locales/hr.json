@@ -1,0 +1,439 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "shopify": {
+    "checkout": {
+      "general": {
+        "map": {
+          "cluster_title": {
+            "many": "Klaster {{number}} markera"
+          }
+        }
+      },
+      "customer_account": {
+        "saved_address_option_description": {
+          "many": "Broj vaših spremljenih adresa: {{count}} ."
+        }
+      },
+      "stock": {
+        "unshippable_product": {
+          "header": {
+            "many": "Nije dostupna dostava za %{count} stavki"
+          },
+          "message": {
+            "many": "Ovi će artikli biti uklonjeni iz vaše košarice jer nema dostupnih načina dostave za vašu adresu."
+          }
+        },
+        "item_label": {
+          "many": "{{count}} stavke"
+        },
+        "unfulfillable_product": {
+          "message": {
+            "many": "Metoda: %{delivery_method} više nije dostupna za ove stavke."
+          },
+          "default_message": {
+            "many": "Odabrani način dostave više nije dostupan za ove artikle."
+          }
+        }
+      },
+      "order_summary": {
+        "expand_component_information": {
+          "many": "Prikaži %{count} stavki"
+        },
+        "collapse_component_information": {
+          "many": "Sakrij %{count} stavki"
+        },
+        "discount_discovery": {
+          "merchandise_quantity_label": {
+            "many": "%{count} stavki"
+          }
+        },
+        "discount_title_stacking": {
+          "many": "Popusti"
+        },
+        "discount_order_stacking": {
+          "many": "Popusti na narudžbe"
+        },
+        "subtotal_label_with_quantity": {
+          "many": "Međuzbroj · stavke: %{count}"
+        },
+        "number_items": {
+          "many": "%{count} stavki"
+        },
+        "view_all_items": {
+          "many": "Prikaži sve stavke: %{count}"
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "Vaši artikli nisu dostupni za preuzimanje u trgovini"
+        }
+      },
+      "shipping": {
+        "estimated_delivery_date": {
+          "many": "Broj radnih dana: %{count}"
+        },
+        "other_method": {
+          "many": "Broj drugih dostupnih metoda: %{count} – od"
+        },
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "many": "za %{count} isporuka"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "many": "svakih %{count} dana"
+            },
+            "week": {
+              "many": "svakih %{count} tjedana"
+            },
+            "month": {
+              "many": "svakih %{count} mjeseci"
+            },
+            "year": {
+              "many": "svakih %{count} godina"
+            }
+          },
+          "first_n_order_free": {
+            "many": "Prvih %{count} narudžbi besplatno"
+          },
+          "free_for_first_n_order": {
+            "many": "Za %{count} prve narudžbe"
+          },
+          "free_shipping_cycles": {
+            "many": "Besplatna dostava za %{count} naknadnih isporuka"
+          },
+          "free_shipping_cycles_delivery_not_included": {
+            "many": "Besplatna dostava za %{count} isporuka"
+          },
+          "first_n_order_free_with_cycle": {
+            "many": "Besplatna dostava za %{count} naknadnih isporuka, zatim %{recurring_order_shipping_price}"
+          },
+          "first_n_order_free_with_cycle_delivery_not_included": {
+            "many": "Besplatna dostava za %{count} isporuka, zatim %{recurring_order_shipping_price}"
+          },
+          "max_cycles_base_shipping": {
+            "many": "Za %{count} sljedećih isporuka, cijena za svaku je %{shipping_price}"
+          },
+          "max_cycles_base_shipping_delivery_not_included": {
+            "many": "Za %{count} sljedećih isporuka, cijena za svaku je %{shipping_price}"
+          },
+          "prepaid_free_shipping_with_cycles": {
+            "many": "Besplatna dostava za prvi %{cycle}, zatim %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_one_cycle": {
+            "many": "%{shipping_price} za %{count} naknadnih isporuka (%{per_delivery_cost})"
+          },
+          "prepaid_order_one_cycle_delivery_not_included": {
+            "many": "%{shipping_price} za %{count} isporuka (%{per_delivery_cost})"
+          },
+          "prepaid_order_no_cycle": {
+            "many": "%{shipping_price} za %{count} naknadnih isporuka (%{per_delivery_cost}), zatim %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_no_cycle_delivery_not_included": {
+            "many": "%{shipping_price} za %{count} isporuka (%{per_delivery_cost}), zatim %{recurring_order_shipping_price}"
+          }
+        },
+        "shipping_method_first_shipment_group_title": {
+          "many": "Prve pošiljke"
+        },
+        "shipping_method_recurring_shipments_group_title": {
+          "many": "Periodične pošiljke"
+        }
+      },
+      "payment": {
+        "order_covered_by_gift_cards_notice": {
+          "many": "Narudžba je pokrivena poklon karticama."
+        },
+        "card_fields_unavailable_html": {
+          "many": "Plaćanje kreditnom i debitnom karticom trenutno nije dostupno.<br> <a href=\"%{current_url}\">Osvježite ovu stranicu</a> ili upotrijebite drugi način plaćanja."
+        },
+        "expired_cards_info": {
+          "many": "Imate %{count} zastarjelih kartica koje možete pregledavati i uređivati ​​na svom računu."
+        },
+        "order_edit_banner_items_added": {
+          "many": "%{count} dodano"
+        }
+      },
+      "shipping_errors": {
+        "shipping_method_not_available_generic": {
+          "many": "Neki od artikala u vašoj košarici ne mogu se poslati na navedenu adresu. Provjerite je li adresa ispravna i pokušajte ponovno ili odaberite drugu adresu."
+        },
+        "shipping_method_not_available_updated": {
+          "many": "Stavke koje ste dodali ne mogu se poslati na vašu lokaciju. Uklonite ga/ih kako biste dovršili kupnju ili kontaktirajte trgovinu."
+        }
+      },
+      "processing": {
+        "wait": {
+          "medium": {
+            "many": "Vaša narudžba je u obradi. Procijenjeno vrijeme čekanja: %{count} minuta."
+          }
+        }
+      },
+      "thank_you": {
+        "login_reorder_link_text": {
+          "many": "kupujte i ove proizvode"
+        },
+        "gift_card_confirmation_by_text_typ": {
+          "many": "U roku od nekoliko minuta primit ćete SMS s poklon karticama."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "many": "U roku od nekoliko minuta primit ćete e-poruku sa svojim darovnim karticama."
+        },
+        "gift_card_email_title": {
+          "many": "Poklon kartice su poslane e-poštom"
+        },
+        "gift_card_text_title": {
+          "many": "Poklon kartice poslane su SMS porukom"
+        },
+        "gift_card_resent_confirmation": {
+          "many": "Poklon kartice su ponovno poslane."
+        },
+        "gift_card_resend_failure": {
+          "many": "Došlo je do problema prilikom ponovnog slanja darovnih kartica. Pokušajte ponovno ili nas kontaktirajte."
+        }
+      },
+      "order_payment_collection": {
+        "changes_summary": {
+          "added": {
+            "many": "%{count} dodano"
+          }
+        }
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "many": "Kupite %{product_name} i %{count} drugih artikala/drugih artikala"
+        }
+      },
+      "subscriptions": {
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "many": "Prvih %{count} uplata nakon %{total_price}"
+          }
+        },
+        "recurring_total_intervals": {
+          "day": {
+            "many": "%{count} dana"
+          },
+          "week": {
+            "many": "%{count} tjedana"
+          },
+          "month": {
+            "many": "%{count} mjeseci"
+          },
+          "year": {
+            "many": "%{count} godina"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "many": ", zatim %{count} plaćanja po %{total_price}"
+          }
+        }
+      },
+      "contextual_availability": {
+        "title": {
+          "many": "Proizvodi nedostupni"
+        },
+        "products_not_available": {
+          "many": "Ovi će proizvodi biti uklonjeni iz vaše košarice jer nisu dostupni u vašoj zemlji/regiji."
+        },
+        "all_products_in_cart_unavailable": {
+          "many": "Ovi proizvodi nisu dostupni u vašoj zemlji/regiji."
+        }
+      },
+      "throttle": {
+        "estimated_wait_time": {
+          "many": "Procijenjeno vrijeme čekanja: {{count}} minuta"
+        }
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "many": "Nije dostupna dostava za %{count} stavki"
+          },
+          "message": {
+            "many": "Ovi će artikli biti uklonjeni iz vaše košarice jer nema dostupnih načina dostave za vašu adresu."
+          }
+        }
+      },
+      "pickup_point": {
+        "paginator": {
+          "header": {
+            "many": "Prikaz %{first} - %{last} od %{count} bodova"
+          },
+          "selected_pickup_point_label": {
+            "many": "%{pickup_point_index} od %{count} bodova"
+          },
+          "selected_page": {
+            "many": "%{first} - %{last} od %{count} bodova"
+          }
+        },
+        "number_of_pickup_points_near_location": {
+          "many": "%{count} sabirnih točaka u blizini vaše lokacije"
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "Vaši artikli nisu dostupni na mjestima preuzimanja"
+        }
+      },
+      "local_pickup": {
+        "location_information": {
+          "many": "Broj trgovina sa zalihama u blizini %{address}: %{count}"
+        },
+        "paginator": {
+          "label": {
+            "many": "%{first} - %{last} od %{count} trgovina"
+          }
+        },
+        "reveal_more_label": {
+          "many": "Prikaži još %{count} lokacija(a)."
+        }
+      },
+      "merchandise_unavailable_in_buyer_location": {
+        "remove_items_action": {
+          "many": "uklonite nedostupne stavke"
+        }
+      }
+    },
+    "notices": {
+      "order": {
+        "cancel_reason": {
+          "many": "ostalo"
+        }
+      }
+    },
+    "page_titles": {
+      "search_results": {
+        "many": "Pretraživanje: Pronađeno %{count} rezultata za \"%{terms}\""
+      }
+    }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "items": {
+          "many": "{{count}} stavke"
+        }
+      },
+      "order_status": {
+        "delivered_description_gift_card": {
+          "many": "Poklon kartice su poslane e-poštom."
+        },
+        "gift_card_label": {
+          "many": "Poklon kartice"
+        },
+        "confirmed_gift_card_additional_description": {
+          "many": "Svaka darovna kartica bit će poslana u zasebnoj e-poruci."
+        },
+        "delivered_description_gift_card_text": {
+          "many": "Poklon kartice su poslane putem SMS poruka."
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "many": "Svaka darovna kartica bit će poslana u zasebnoj tekstualnoj poruci."
+        },
+        "gift_resend_success": {
+          "many": "Poklon kartice su ponovno poslane"
+        },
+        "gift_resend_failure": {
+          "many": "Došlo je do problema prilikom ponovnog slanja darovnih kartica. Pokušajte ponovno ili nas kontaktirajte."
+        },
+        "delivered_description_digital": {
+          "many": "Ove stavke su dovršene."
+        },
+        "tracking_number": {
+          "many": "Brojevi za praćenje"
+        },
+        "gift_card_resend_button": {
+          "many": "Ponovno pošalji darovne kartice"
+        }
+      }
+    },
+    "order_details": {
+      "image_gallery": {
+        "load_more_items": {
+          "many": "Učitaj još {{count}} stavki"
+        }
+      }
+    },
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "many": "Imate {{count}} narudžbi na čekanju"
+            }
+          }
+        }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "banner_overdue": {
+              "many": "Vaše plaćanje kasni {{count}} dana"
+            },
+            "banner_due": {
+              "many": "Vaše plaćanje dospijeva za {{count}} dana"
+            }
+          }
+        }
+      }
+    },
+    "errors": {
+      "banner_title": {
+        "many": "Broj generiranih pogrešaka: {{count}}"
+      }
+    },
+    "ui_components": {
+      "autocompleteOptionsAvailable": {
+        "many": "Broj dostupnih stavki: {{count}}"
+      },
+      "month": {
+        "many": "mjeseca"
+      },
+      "mapClusterTitle": {
+        "many": "Klaster {{number}} markera"
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "many": "Prije {{count}} min"
+        }
+      }
+    }
+  },
+  "general": {
+    "page": "Stranica {{ page }}",
+    "home": "Početna stranica",
+    "accessibility": {
+      "skip_to_content": "Preskoči na sadržaj"
+    }
+  },
+  "password": {
+    "storefront_access": {
+      "enter_password": "Prijavite se koristeći svoju lozinku",
+      "store_access": "Pristup trgovini",
+      "instructions": "Unesite svoju lozinku za pristup trgovini",
+      "password": "Lozinka",
+      "enter_store": "Poslati"
+    }
+  },
+  "apps": {
+    "shopify_reviews": {
+      "review_info": "Ovaj proizvod ima {{ rating_value }} od {{ rating_max }} zvjezdica.",
+      "leave_review": "Ostavite recenziju",
+      "review_count": {
+        "zero": "Ovaj proizvod još nema recenziju.",
+        "one": "Ima {{ count }} mišljenja.",
+        "few": "Ima {{ count }} recenzija.",
+        "many": "Ima {{ count }} mišljenja",
+        "other": "Ima {{ count }} mišljenja."
+      }
+    }
+  }
+}
