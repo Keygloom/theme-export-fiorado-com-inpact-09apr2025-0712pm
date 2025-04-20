@@ -420,7 +420,8 @@
       "next": "Sljedeći",
       "previous": "Prethodno",
       "play_video": "Reproduciraj video",
-      "read_more": "Pročitaj više"
+      "read_more": "Pročitaj više",
+      "item_nth_of_count": ""
     },
     "label": {
       "color": "Boja",
@@ -439,7 +440,8 @@
     "newsletter": {
       "subscribe": "Pretplatite se",
       "notify_me": "Obavijesti me",
-      "subscribed_successfully": "Pretplatili ste se na naš newsletter."
+      "subscribed_successfully": "Pretplatili ste se na naš newsletter.",
+      "email": "Email adresa"
     },
     "localization": {
       "country": "Zemlja",
@@ -497,7 +499,8 @@
       "few": "{{ count }} proizvoda",
       "many": "{{ count }} proizvoda",
       "other": "{{ count }} proizvoda",
-      "one": "{{ count }} proizvod"
+      "one": "{{ count }} proizvod",
+      "zero": ""
     },
     "faceting": {
       "filters": "Filteri",
@@ -511,7 +514,8 @@
       "price_range_to": "dolje",
       "price_filter_from": "Od iznosa",
       "price_filter_to": "Sve do iznosa",
-      "availability_label": "Samo na stanju"
+      "availability_label": "Samo na stanju",
+      "price_filter": ""
     },
     "general": {
       "empty_collection": "Ova zbirka je prazna",
@@ -545,8 +549,10 @@
         "zero": "{{ count }} komentara",
         "one": "{{ count }} komentar",
         "few": "{{ count }} komentara",
-        "many": "{{ count }} komentara"
-      }
+        "many": "{{ count }} komentara",
+        "other": ""
+      },
+      "email": "Email adresa"
     }
   },
   "contact": {
@@ -554,7 +560,8 @@
       "name": "Ime i prezime",
       "message": "Poruka",
       "submit": "Poslati",
-      "success_message": "Vaša poruka je poslana."
+      "success_message": "Vaša poruka je poslana.",
+      "email": "Email adresa"
     }
   },
   "customer": {
@@ -572,13 +579,15 @@
       "password": "Lozinka",
       "submit": "Prijavite se",
       "forgot_password": "Zaboravili ste lozinku?",
-      "sign_up": "Prijavite se"
+      "sign_up": "Prijavite se",
+      "email": "Email adresa"
     },
     "recover_password": {
       "title": "Oporavi lozinku",
       "submit": "Oporavi lozinku",
       "back_to_login": "Povratak na prijavu",
-      "success_message": "E-pošta s uputama kako poništiti lozinku poslana je na vašu adresu."
+      "success_message": "E-pošta s uputama kako poništiti lozinku poslana je na vašu adresu.",
+      "email": "Email adresa"
     },
     "register": {
       "title": "Prijavite se",
@@ -587,7 +596,8 @@
       "password": "Lozinka",
       "accepts_marketing": "Pretplatite se na naš newsletter",
       "submit": "Napravi račun",
-      "login": "Prijavite se"
+      "login": "Prijavite se",
+      "email": "Email adresa"
     },
     "activate_account": {
       "title": "Aktivirajte svoj račun",
@@ -684,7 +694,10 @@
         "few": "{{ count }} dostupnih boja",
         "many": "{{ count }} dostupnih boja",
         "other": "{{ count }} dostupnih boja"
-      }
+      },
+      "description": "",
+      "add_to_cart_short": "",
+      "sku": ""
     },
     "gallery": {
       "close": "Zatvori galeriju",
@@ -723,7 +736,8 @@
       "low_stock_with_quantity_count": {
         "one": "Još samo {{ count }} komada",
         "few": "Još samo {{ count }} komada",
-        "many": "Još samo {{ count }} komada"
+        "many": "Još samo {{ count }} komada",
+        "other": ""
       }
     },
     "store_availability": {
@@ -743,7 +757,8 @@
         "one": "{{ count }} stavka",
         "few": "{{ count }} stavke",
         "many": "{{ count }} stavke",
-        "other": "{{ count }} stavka"
+        "other": "{{ count }} stavka",
+        "zero": ""
       },
       "continue_shopping": "Nastavite kupovati",
       "weight": "Vaga",
@@ -805,7 +820,8 @@
       "clear": "Jasan",
       "view_all": "Vidi sve",
       "view_all_results": "Vidi sve",
-      "no_results": "Nema rezultata."
+      "no_results": "Nema rezultata.",
+      "posts": ""
     },
     "results_count": {
       "zero": "0 rezultata za \" {{ terms }} \"",
