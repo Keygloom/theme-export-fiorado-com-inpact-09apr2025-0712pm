@@ -167,7 +167,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "",
-            "content": "<p>Dobre obuwie to nie tylko komfort – poprawia postawę, zmniejsza obciążenie stawów i wspomaga zdrowe krążenie. Dbają nie tylko o zdrowe stopy, ale także przyczyniają się do ogólnego dobrego samopoczucia.</p><p><strong>Dr n. med. Marcin Kowalski, Podolog</strong></p>"
+            "content": "<p>Dobra obuća nije samo udobna – ona poboljšava držanje, smanjuje stres na zglobove i podržava zdravu cirkulaciju. Oni ne samo da brinu o zdravim stopalima, već i doprinose općem blagostanju. </p><p><em><strong>Dr. Marko Horvat, podijatar</strong></em></p>"
           }
         }
       },
@@ -220,7 +220,7 @@
         "richtext_LwDJw7": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Napraw swoje paznokcie i usuń infekcje grzybicze dzięki <strong>NailClear Pro</strong>! To innowacyjne urządzenie wykorzystuje terapię niebieskim światłem i laser na podczerwień do zwalczania infekcji, łagodzenia bólu i wzmacniania paznokci.</p>"
+            "content": "<p>Popravite nokte i uklonite gljivične infekcije s <strong>NailClear Pro</strong>! Ovaj inovativni uređaj koristi terapiju plavim svjetlom i infracrveni laser za borbu protiv infekcije, ublažavanje boli i jačanje noktiju.</p>"
           }
         },
         "button_FwC9gW": {
@@ -228,7 +228,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Kup tutaj",
+            "text": "Kupujte ovdje",
             "url": "shopify://products/nailclear-pro",
             "background": "",
             "text_color": ""
@@ -254,55 +254,52 @@
         "overlay_opacity": 30
       }
     },
-    "press": {
-      "type": "press",
+    "trust_pilot_4R3za7": {
+      "type": "TrustPilot",
       "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
+        "text_6C9P43": {
+          "type": "text",
           "settings": {
-            "logo_width": 100,
-            "author": "Anna Nowak",
-            "content": "Zawsze byłem sceptycznie nastawiony do butów ortopedycznych, ale te przerosły moje oczekiwania. Oferują świetne wsparcie bez uszczerbku dla stylu.",
-            "show_rating": true,
-            "rating": 5
+            "rating_stars": "5",
+            "review_title": "Stil i podrška iznad očekivanja!",
+            "review_des": "<p>Uvijek sam bio skeptičan prema ortopedskim cipelama, ali ove su nadmašile moja očekivanja. Nude veliku podršku bez kompromisa u stilu.</p>",
+            "customer_name": "Maja Kovač",
+            "review_date": "prije 11 sati"
           }
         },
-        "quote_hhknnQ": {
-          "type": "quote",
+        "text_Dtxxff": {
+          "type": "text",
           "settings": {
-            "logo_width": 100,
-            "author": "Katarzyna Zielińska",
-            "content": "Jakość jest doskonała, jest trwały i działa dokładnie tak, jak obiecano. Jestem z niego niesamowicie zadowolony i bez wątpienia kupiłbym go ponownie!",
-            "show_rating": true,
-            "rating": 5
+            "rating_stars": "5",
+            "review_title": "Definitivno bih ponovno kupila!",
+            "review_des": "<p>Kvaliteta je izvrsna, izdržljiv je i radi točno onako kako je obećano. Nevjerojatno sam zadovoljna njime i definitivno bih ga ponovno kupila!</p>",
+            "customer_name": "Ana Marinković",
+            "review_date": "prije 1 dan"
           }
         },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
+        "text_GQjKgk": {
+          "type": "text",
           "settings": {
-            "logo_width": 100,
-            "author": "Magdalena Wiśniewska",
-            "content": "Buty są wysokiej jakości i robią dokładnie to, co obiecują. Są przyjazne dla użytkownika, trwałe i w pełni spełniają moje oczekiwania.",
-            "show_rating": true,
-            "rating": 5
+            "rating_stars": "4.5",
+            "review_title": "Izdržljive i jednostavne za korištenje",
+            "review_des": "<p>Cipele su visoke kvalitete i rade točno ono što obećavaju. Jednostavni su za korištenje, izdržljivi i u potpunosti ispunjavaju moja očekivanja.</p>",
+            "customer_name": "Tea Radić",
+            "review_date": "Upravo objavljeno"
           }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-0",
-        "quote_hhknnQ",
-        "16644243327ba53d2a-1"
+        "text_6C9P43",
+        "text_Dtxxff",
+        "text_GQjKgk"
       ],
       "settings": {
-        "full_width": true,
-        "content_size": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "enb": true,
+        "review_heading": "",
+        "verified_heading": "Provjereno",
+        "main_rating_stars": "4.5",
+        "title": "Fiorado",
+        "text": ""
       }
     },
     "faq": {
@@ -311,29 +308,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Jakie rozmiary są dostępne?",
-            "content": "<p>Wszystkie nasze produkty są dostarczane z załączoną tabelą rozmiarów, dzięki czemu z pewnością wybierzesz odpowiedni rozmiar.</p>"
+            "title": "Koje su veličine dostupne?",
+            "content": "<p>Svi naši proizvodi dolaze s priloženom tablicom veličina, tako da možete biti sigurni da ste odabrali pravu veličinu.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Czy mogę zwrócić moje zamówienie?",
-            "content": "<p>Tak, zwroty są możliwe do 30 dni po otrzymaniu przesyłki. Więcej informacji na ten temat można znaleźć w naszej polityce zwrotów.</p>"
+            "title": "Mogu li vratiti svoju narudžbu?",
+            "content": "<p>Da, povrat je moguć do 30 dana nakon primitka pošiljke. Za više informacija pogledajte našu politiku povrata.</p>"
           }
         },
         "item_CeWA7t": {
           "type": "item",
           "settings": {
-            "title": "Jak długo potrwa dostawa mojego zamówienia?",
-            "content": "<p>Każde zamówienie jest starannie śledzone i pakowane. Przetwarzanie zajmuje średnio 1-2 dni robocze. Po wysłaniu zamówienia otrzymasz numer śledzenia na swój adres e-mail. Przewidywany czas dostawy na terenie Europy wynosi 6-12 dni.</p>"
+            "title": "Koliko će vremena trebati da moja narudžba bude isporučena?",
+            "content": "<p>Svaka se narudžba pažljivo prati i pakira. Obrada u prosjeku traje 1-2 radna dana. Nakon što je vaša narudžba otpremljena, primit ćete broj za praćenje putem e-pošte. Procijenjeno vrijeme isporuke unutar Europe je 6-12 dana.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Inne pytania?",
-            "content": "<p>Zawsze możesz skontaktować się z nami na naszej stronie kontaktowej. Z przyjemnością Ci tam pomożemy.</p>"
+            "title": "Ostala pitanja?",
+            "content": "<p>Uvijek nas možete kontaktirati na našoj kontakt stranici. Tu ćemo vam rado pomoći.<br/></p>"
           }
         }
       },
@@ -346,10 +343,10 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Często zadawane pytania",
-        "content": "<p>Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania. Jeśli Twojego pytania nie ma na liście, skontaktuj się z nami. Z przyjemnością pomożemy!</p>",
+        "title": "Često postavljana pitanja",
+        "content": "<p>Ovdje ćete pronaći odgovore na najčešće postavljana pitanja. Ako vaše pitanje nije navedeno, kontaktirajte nas. Rado ćemo pomoći!</p>",
         "team_avatar_width": 160,
-        "support_hours": "Nasz zespół obsługi klienta jest dostępny codziennie od 8:00 do 19:00.",
+        "support_hours": "Naš tim korisničke službe dostupan je svaki dan od 8 do 19 sati.",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
@@ -364,17 +361,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "trust_pilot_4R3za7": {
-      "type": "TrustPilot",
-      "settings": {
-        "enb": true,
-        "review_heading": "",
-        "verified_heading": "",
-        "main_rating_stars": "4.5",
-        "title": "Fiorado",
-        "text": ""
-      }
     }
   },
   "order": [
@@ -384,8 +370,7 @@
     "images_with_text_scrolling_r9eGzQ",
     "impact-text",
     "image_with_text_overlay_RwgW9X",
-    "press",
-    "faq",
-    "trust_pilot_4R3za7"
+    "trust_pilot_4R3za7",
+    "faq"
   ]
 }
