@@ -435,5 +435,138 @@
         "other": "Ima {{ count }} mišljenja."
       }
     }
+  },
+  "collection": {
+    "products_count": {
+      "few": "{{ count }} proizvoda",
+      "many": "{{ count }} proizvoda",
+      "other": "{{ count }} proizvoda"
+    },
+    "faceting": {
+      "filters": "Filteri",
+      "filter_and_sort": "Filtri i sortiranje",
+      "filter_button": "Filteri",
+      "clear_filters": "Obriši sve",
+      "apply_filters": "Primijeni filtre",
+      "sort_by": "Sortiranje",
+      "remove_filter": "Ukloni filter \" {{ name }} \"",
+      "no_results": "Nijedan proizvod ne odgovara ovim filtrima.",
+      "price_range_to": "dolje",
+      "price_filter_from": "Od iznosa",
+      "price_filter_to": "Sve do iznosa",
+      "availability_label": "Samo na stanju"
+    }
+  },
+  "blog": {
+    "general": {
+      "empty_blog": "Ovaj blog je prazan",
+      "back_to_home": "Povratak",
+      "view": "Izgled",
+      "all_posts": "Svi postovi"
+    },
+    "post": {
+      "written_by": "Autor: {{ author }}",
+      "share": "Udio",
+      "tags": "oznake",
+      "continue_reading": "Pročitaj više"
+    },
+    "comments": {
+      "leave_comment": "Ostavite komentar",
+      "moderated": "Svi komentari se moderiraju prije objave.",
+      "name": "Ime",
+      "message": "Poruka",
+      "submit": "Poslati",
+      "comment_sent": "Vaš komentar je poslan. Objavit ćemo ga za nekoliko trenutaka jer je naš blog moderiran.",
+      "comment_published": "Vaš komentar je objavljen.",
+      "count": {
+        "zero": "{{ count }} komentara",
+        "one": "{{ count }} komentar",
+        "few": "{{ count }} komentara",
+        "many": "{{ count }} komentara"
+      }
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Ime i prezime",
+      "message": "Poruka",
+      "submit": "Poslati",
+      "success_message": "Vaša poruka je poslana."
+    }
+  },
+  "customer": {
+    "account": {
+      "welcome": "Pozdrav, {{first_name}}",
+      "tagline": "Pogledajte sve svoje narudžbe i upravljajte podacima o svom računu.",
+      "orders": "Narudžbe",
+      "addresses": "Adrese",
+      "logout": "Odjavi se",
+      "no_orders": "Još niste izvršili nijednu narudžbu.",
+      "continue_shopping": "Nastavite kupovati"
+    },
+    "login": {
+      "title": "Prijavite se",
+      "password": "Lozinka",
+      "submit": "Prijavite se",
+      "forgot_password": "Zaboravili ste lozinku?",
+      "sign_up": "Prijavite se"
+    },
+    "recover_password": {
+      "title": "Oporavi lozinku",
+      "submit": "Oporavi lozinku",
+      "back_to_login": "Povratak na prijavu",
+      "success_message": "E-pošta s uputama kako poništiti lozinku poslana je na vašu adresu."
+    },
+    "register": {
+      "title": "Prijavite se",
+      "first_name": "Ime",
+      "last_name": "Prezime",
+      "password": "Lozinka",
+      "accepts_marketing": "Pretplatite se na naš newsletter",
+      "submit": "Napravi račun",
+      "login": "Prijavite se"
+    },
+    "activate_account": {
+      "title": "Aktivirajte svoj račun",
+      "instructions": "Unesite svoju lozinku za kreiranje računa:",
+      "password": "Lozinka",
+      "password_confirmation": "Ponovi lozinku",
+      "submit": "Aktivirati",
+      "cancel": "Otkazati"
+    },
+    "reset_password": {
+      "title": "Ponovno postavljanje lozinke",
+      "password": "Lozinka",
+      "password_confirmation": "Ponovi lozinku",
+      "submit": "Resetiraj"
+    },
+    "order": {
+      "order": "Redoslijed",
+      "order_name": "Naručite {{name}}",
+      "view_details": "Pogledajte detalje narudžbe",
+      "back": "Povratak",
+      "date": "Datum",
+      "payment_status": "Status plaćanja",
+      "fulfillment_status": "Status implementacije",
+      "cancelled_on": "Otkazano: {{date}} . Razlog: {{reason}}",
+      "product": "Proizvod",
+      "quantity": "Količina",
+      "fulfillment_with_number": "Svi su artikli otpremljeni {{date}} . Pratite svoju pošiljku pomoću svog {{tracking_number}} broja.",
+      "fulfillment": "Vaša je narudžba poslana {{date}} .",
+      "track_shipment": "Pratite svoju pošiljku",
+      "subtotal": "Vrijednost proizvoda",
+      "discount": "Popust",
+      "shipping": "Način dostave",
+      "taxes_included": "Uključujući porez",
+      "taxes_excluded": "Nema poreza",
+      "total_duties": "Običaji",
+      "refunded_amount": "Vraćeni iznos",
+      "total": "Zajedno",
+      "shipping_address": "Adresa za dostavu",
+      "billing_address": "Adresa za naplatu"
+    },
+    "addresses": {
+      "no_addresses": "Još niste spremili nijednu adresu."
+    }
   }
 }
