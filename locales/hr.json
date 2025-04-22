@@ -511,8 +511,8 @@
       "sort_by": "Sortiranje",
       "remove_filter": "Ukloni filter \" {{ name }} \"",
       "no_results": "Nijedan proizvod ne odgovara ovim filtrima.",
-      "price_range_to": "dolje",
-      "price_filter_from": "Od iznosa",
+      "price_range_to": "do",
+      "price_filter_from": "Od ",
       "price_filter_to": "Sve do iznosa",
       "availability_label": "Samo na stanju",
       "price_filter": ""
