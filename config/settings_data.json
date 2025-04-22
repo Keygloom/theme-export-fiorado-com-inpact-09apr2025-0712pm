@@ -43,7 +43,7 @@
     "product_info_alignment": "center",
     "cart_icon": "shopping_basket",
     "social_facebook": "",
-    "favicon": "shopify://shop_images/Fiorado_2_d7ac1a52-84ed-4163-bc1a-b76ccbdb03a2.png",
+    "favicon": "shopify://shop_images/Fiorado_2_00763667-6aab-4be1-b903-581e0a81404a.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
@@ -171,8 +171,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Titels vet (bold) */h1, h2, h3, h4, h5, h6 {font-weight: bold;}",
-      "/* Standaard tekst normaal */body, p, span, li {font-weight: normal;}"
+      "/* Titels vet (bold) */h1,h2,h3,h4,h5,h6 {font-weight: bold;}",
+      " /* Standaard tekst normaal */body,p,span,li {font-weight: normal;}"
     ]
   }
 }
