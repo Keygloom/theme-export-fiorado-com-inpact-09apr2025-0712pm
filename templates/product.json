@@ -97,7 +97,7 @@
         "liquid_CmbhqW": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"font-size: 0.6em; color: #555;\">\n  💡 Napomena: sve cijene su bez PDV-a. Kod međunarodnih pošiljki mogu se naplatiti dodatni carinski troškovi.\n</p>\n</p>"
+            "liquid": "<p style=\"font-size: 0.6em; color: #555;\">\nNapomena: sve cijene su bez PDV-a. Kod međunarodnih pošiljki mogu se naplatiti dodatni carinski troškovi.\n</p>\n</p>"
           }
         },
         "separator": {
