@@ -94,6 +94,12 @@
           "type": "payment_terms",
           "settings": {}
         },
+        "liquid_CmbhqW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p style=\"font-size: 0.6em; color: #555;\">\n  💡 Napomena: sve cijene su bez PDV-a. Kod međunarodnih pošiljki mogu se naplatiti dodatni carinski troškovi.\n</p>\n</p>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -125,6 +131,7 @@
         "quantity_selector",
         "rating",
         "payment_terms",
+        "liquid_CmbhqW",
         "separator",
         "description",
         "liquid_ikXqnw"
