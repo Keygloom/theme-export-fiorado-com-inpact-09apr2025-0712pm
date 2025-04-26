@@ -115,10 +115,6 @@
           "settings": {
             "liquid": "<div id='ss-product-reviews-2'></div>"
           }
-        },
-        "judge_me_reviews_preview_badge_aKdNL8": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
         }
       },
       "block_order": [
@@ -138,8 +134,7 @@
         "liquid_CmbhqW",
         "separator",
         "description",
-        "liquid_ikXqnw",
-        "judge_me_reviews_preview_badge_aKdNL8"
+        "liquid_ikXqnw"
       ],
       "settings": {
         "full_width": true,
@@ -200,7 +195,7 @@
         "recommendations_count": 6,
         "products": [
           "aircushion-ulo-ci",
-          "flexfit-compressiekousen",
+          "flexfit-kompresijskim-carapama",
           "nailclear-pro"
         ],
         "full_width": true,
@@ -375,15 +370,6 @@
     },
     "1745666733bf555c52": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_7qqa6H": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_7qqa6H"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
