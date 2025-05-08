@@ -559,5 +559,163 @@
       "expires_on": "Изтича: {{ expires_on }}",
       "expired": "Вашата подаръчна карта е изтекла или е деактивирана."
     }
+  },
+  "general": {
+    "accessibility": {
+      "go_to_item": "Отидете на {{ index }}",
+      "drag": "Скъпи",
+      "close": "Затвори",
+      "next": "Следване",
+      "previous": "Преди това",
+      "play_video": "Пусни видеото",
+      "read_more": "Прочетете още"
+    },
+    "label": {
+      "color": "Цвят",
+      "white": "Бяло",
+      "size": "Размер"
+    },
+    "social": {
+      "follow_on": "Последвайте ни в {{ social_media }}",
+      "share": "Споделяне",
+      "share_on": "Сподели в {{ social_media }}",
+      "share_email": "Споделяне по имейл"
+    },
+    "rating": {
+      "info": "{{ rating_value }} от {{ rating_max }} звезди"
+    },
+    "newsletter": {
+      "subscribe": "Абонирайте се",
+      "notify_me": "Уведоми ме",
+      "subscribed_successfully": "Абонирали сте се за нашия бюлетин.",
+      "email": "Имейл адрес"
+    },
+    "localization": {
+      "country": "Земя",
+      "language": "Език",
+      "change_country_accessibility_text": "Промяна на държава или валута",
+      "change_language_accessibility_text": "Промяна на езика"
+    },
+    "privacy_bar": {
+      "accept": "Споразумение",
+      "decline": "Отказ"
+    },
+    "form": {
+      "max_characters": "Максимален брой символи {{ max_chars }}"
+    },
+    "on_boarding": {
+      "blog_post_category": "Категория",
+      "blog_post_title": "Статия",
+      "blog_post_excerpt": "Напишете нещо за вашата статия.",
+      "product_vendor": "Производител",
+      "product_title": "Продукт",
+      "product_description": "Напишете нещо за вашия продукт.",
+      "collection_title": "Колекция"
+    }
+  },
+  "password": {
+    "storefront_access": {
+      "enter_password": "Влезте, използвайки паролата си.",
+      "store_access": "Достъп до магазина",
+      "instructions": "Въведете паролата си, за да получите достъп до магазина.",
+      "password": "Парола",
+      "enter_store": "Изпрати"
+    },
+    "general": {
+      "follow_us": "Последвайте ни",
+      "powered_by": "Този магазин се захранва от",
+      "store_owner": "Вие собственик на магазин ли сте?",
+      "login": "Вход"
+    }
+  },
+  "apps": {
+    "shopify_reviews": {
+      "review_info": "Този продукт има {{ rating_value }} от {{ rating_max }} звезди.",
+      "leave_review": "Оставете отзив",
+      "review_count": {
+        "zero": "Този продукт все още няма отзив.",
+        "one": "Има {{ count }} мнения.",
+        "few": "Има {{ count }} отзива.",
+        "many": "Има {{ count }} мнения.",
+        "other": "Има {{ count }} мнения."
+      }
+    }
+  },
+  "collection": {
+    "products_count": {
+      "few": "{{ count }} продукта",
+      "many": "{{ count }} продукта",
+      "other": "{{ count }} продукта",
+      "one": "{{ count }} продукт"
+    },
+    "faceting": {
+      "filters": "Филтри",
+      "filter_and_sort": "Филтри и сортиране",
+      "filter_button": "Филтри",
+      "clear_filters": "Изчисти всички",
+      "apply_filters": "Прилагане на филтри",
+      "sort_by": "Сортиране",
+      "remove_filter": "Премахване на филтъра „ {{ name }} “",
+      "no_results": "Няма продукти, които да отговарят на тези филтри.",
+      "price_range_to": "до",
+      "price_filter_from": "От ",
+      "price_filter_to": "До сумата",
+      "availability_label": "Само при условие"
+    },
+    "general": {
+      "empty_collection": "Тази колекция е празна.",
+      "all_collections": "Всички колекции",
+      "no_collections": "Този магазин няма колекции.",
+      "continue_shopping": "Продължете пазаруването"
+    }
+  },
+  "blog": {
+    "general": {
+      "empty_blog": "Този блог е празен.",
+      "back_to_home": "Връщане",
+      "view": "Виж",
+      "all_posts": "Всички публикации"
+    },
+    "post": {
+      "written_by": "Автор: {{ author }}",
+      "share": "Споделяне",
+      "tags": "тагове",
+      "continue_reading": "Прочетете още"
+    },
+    "comments": {
+      "leave_comment": "Оставете коментар",
+      "moderated": "Всички коментари се модерират преди публикуване.",
+      "name": "Име",
+      "message": "Съобщение",
+      "submit": "Изпрати",
+      "comment_sent": "Вашият коментар е изпратен. Ще го публикуваме след малко, защото блогът ни е модериран.",
+      "comment_published": "Вашият коментар е публикуван.",
+      "count": {
+        "zero": "{{ count }} коментара",
+        "one": "{{ count }} коментар",
+        "few": "{{ count }} коментара",
+        "many": "{{ count }} коментара"
+      },
+      "email": "Имейл адрес"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Име и фамилия",
+      "message": "Съобщение",
+      "submit": "Изпрати",
+      "success_message": "Съобщението ви е изпратено.",
+      "email": "Имейл адрес"
+    }
+  },
+  "customer": {
+    "account": {
+      "welcome": "Здравей, {{first_name}}",
+      "tagline": "Преглеждайте всичките си поръчки и управлявайте информацията за профила си.",
+      "orders": "Поръчки",
+      "addresses": "Адреси",
+      "logout": "Изход",
+      "no_orders": "Все още не сте направили никакви поръчки."
+    }
   }
 }
