@@ -222,44 +222,44 @@
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Zweryfikowano",
-            "title": "Doskonałe buty ortopedyczne!",
-            "text": "<p>Te buty ortopedyczne znacznie poprawiły mój komfort chodzenia. Pasują idealnie, zapewniają dobre wsparcie i łagodzą ból stóp. Jakość jest na najwyższym poziomie, a dopasowanie dokładnie takie, jak obiecano.</p>",
-            "author": "Joanna Wójcik",
-            "time": "15 godzin temu"
+            "verified_text": "Проверен",
+            "title": "Перфектни ортопедични обувки!",
+            "text": "<p>Тези ортопедични обувки значително подобриха комфорта ми при ходене. Пасват перфектно, осигуряват добра опора и облекчават болката в краката. Качеството е на първо ниво и пасването е точно както е обещано.</p>",
+            "author": "Йоана В",
+            "time": "преди 15 часа"
           }
         },
         "item_CM4aym": {
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Zweryfikowano",
-            "title": "Jestem bardzo zadowolony!",
-            "text": "<p>Buty ortopedyczne świetnie pasują i zapewniają odpowiednie wsparcie. Odkąd je noszę, moje stopy mniej cierpią i znów mogę chodzić bez bólu. Najwyższa jakość i świetna obsługa!</p>",
-            "author": "Elżbieta Mazur",
-            "time": "1 dzień temu"
+            "verified_text": "Проверен",
+            "title": "Много съм доволен!",
+            "text": "<p>Ортопедичните обувки пасват перфектно и осигуряват адекватна опора. Откакто ги нося, краката ми страдат по-малко и отново мога да ходя без болка. Най-високо качество и страхотно обслужване!</p>",
+            "author": "Елжбета",
+            "time": "преди 1 ден"
           }
         },
         "item_LAULkr": {
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Zweryfikowano",
-            "title": "Świetne wkładki ortopedyczne!",
-            "text": "<p>Te podeszwy ortopedyczne znacznie zmniejszyły ból stóp. Są wygodne, zapewniają doskonałe wsparcie i dobrze pasują do moich butów. Odkąd ich używam, czuję wyraźną różnicę.</p>",
-            "author": "Dominika Kaczmarek",
-            "time": "2 godziny temu"
+            "verified_text": "Проверен",
+            "title": "Страхотни ортопедични стелки!",
+            "text": "<p>Тези ортопедични подметки значително намалиха болката в краката ми. Те са удобни, осигуряват страхотна опора и пасват добре на обувките ми. Откакто започнах да ги използвам, усещам ясна разлика.</p>",
+            "author": "Доминика К",
+            "time": "преди 2 часа"
           }
         },
         "item_XyXkr4": {
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Zweryfikowano",
-            "title": "Najwyższej jakości wsparcie kostki!",
-            "text": "<p>Ta orteza kostki zapewnia doskonałe wsparcie i jest bardzo wygodna. Odkąd ją noszę, moja kostka mniej mi dokucza i mogę znów łatwiej się poruszać. Materiał jest wytrzymały, ale elastyczny.</p>",
-            "author": "Katarzyna Nowicka",
-            "time": "Właśnie opublikowane."
+            "verified_text": "Проверен",
+            "title": "Висококачествена опора за глезена!",
+            "text": "<p>Тази ортеза за глезена осигурява отлична опора и е много удобна. Откакто го нося, глезена ми ме притеснява по-малко и отново мога да се движа по-лесно. Материалът е издръжлив, но гъвкав.</p>",
+            "author": "Катрин Новицк",
+            "time": "Току-що публикувано."
           }
         }
       },
