@@ -17,14 +17,14 @@
         "message_Qh9pUp": {
           "type": "message",
           "settings": {
-            "text": "30-dnevno jamstvo povrata novca",
+            "text": "30-дневна гаранция за връщане на парите",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Privremeno besplatna dostava za svaku narudžbu!",
+            "text": "Временно безплатна доставка за всяка поръчка!",
             "url": ""
           }
         }

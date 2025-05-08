@@ -21,9 +21,9 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Elegantna podrška za svaki vaš korak!",
+            "title": "Елегантна опора за всяка ваша стъпка!",
             "heading_tag": "h2",
-            "button_text": "Kupujte ovdje",
+            "button_text": "Пазарувайте тук",
             "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -70,7 +70,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Naši Bestseleri",
+        "title": "Нашите бестселъри",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -89,20 +89,20 @@
         "subheading_3Uy8BL": {
           "type": "subheading",
           "settings": {
-            "text": "Popularan"
+            "text": "Популярни"
           }
         },
         "heading_em8hcM": {
           "type": "heading",
           "settings": {
-            "text": "RelaxFit Cipele",
+            "text": "Обувки RelaxFit",
             "heading_tag": "h2"
           }
         },
         "richtext_xFCbcM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Lagan, prozračan i jastučić za maksimalnu udobnost. Ergonomski potplat ublažava bol i pruža potporu, dok moderan dizajn za navlačenje dodaje ležernu eleganciju. Hodajte bez brige – cijeli dan!</p>"
+            "content": "<p>Лек, дишащ и с омекотяваща подложка за максимален комфорт. Ергономичната подметка облекчава болката и осигурява опора, а модерният дизайн за лесно обуване добавя небрежна елегантност. Ходете без притеснение – през целия ден!</p>"
           }
         },
         "button_TmURaq": {
@@ -110,7 +110,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Kupujte ovdje",
+            "text": "Пазарувайте тук",
             "url": "shopify://products/relaxfit-cipele",
             "background": "",
             "text_color": ""
@@ -147,7 +147,7 @@
             "icon": "none",
             "icon_width": 24,
             "title": "",
-            "content": "<p>Svaki korak treba biti lagan - bez boli, bez umora. Odgovarajuća obuća podupire stopala na prirodan način, rasterećuje osjetljive točke i osigurava ravnotežu. Pruža ne samo udobnost, već i slobodu: dulje hodati, više uživati ​​i bezbrižno se kretati. </p><p><em><strong>Dr. Lana Petrovic, specijalistica kirurške podijatrije</strong></em></p>"
+            "content": "<p>Всяка стъпка трябва да бъде лека – без болка, без умора. Подходящите обувки поддържат стъпалата по естествен начин, облекчават чувствителните точки и осигуряват баланс. Те предлагат не само комфорт, но и свобода: да ходите по-дълго, да се наслаждавате повече и да се движите без притеснения.</p><p><strong>Д-р Елена Петрова, специалист по хирургична подиатрия</strong></p>"
           }
         },
         "item_EUeMwL": {
@@ -157,7 +157,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "",
-            "content": "<p>Fiorado ortopedske cipele nude iznimnu udobnost i potporu. Zahvaljujući ergonomskom kroju i potplatu koji apsorbira udarce, smanjuju nelagodu stopala i poboljšavaju držanje tijekom hodanja. Ovo je odličan izbor za one koji traže kvalitetnu ortopedsku obuću! </p><p><em><strong>Dr. Ivana Novak, ortomolekularni savjetnik</strong></em></p>"
+            "content": "<p>Ортопедичните обувки Fiorado осигуряват изключителен комфорт и опора. Благодарение на ергономичната форма и подметката с омекотяващ ефект, те намаляват дискомфорта в стъпалата и подобряват стойката при ходене. Това е отличен избор за всеки, който търси качествени ортопедични обувки!</p><p><strong>Д-р Ивана Новак, ортомолекулярен консултант</strong></p>"
           }
         },
         "item_mCNeaD": {
@@ -167,7 +167,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "",
-            "content": "<p>Dobra obuća nije samo udobna – ona poboljšava držanje, smanjuje stres na zglobove i podržava zdravu cirkulaciju. Oni ne samo da brinu o zdravim stopalima, već i doprinose općem blagostanju. </p><p><em><strong>Dr. Marko Horvat, podijatar</strong></em></p>"
+            "content": "<p>Добрите обувки не са просто удобни – те подобряват стойката, намаляват натоварването върху ставите и подпомагат здравословното кръвообращение. Те не само се грижат за здравето на стъпалата, но и допринасят за цялостното благосъстояние.</p><p><strong>Д-р Марко Хорват, подиатър</strong></p>"
           }
         }
       },
@@ -220,7 +220,7 @@
         "richtext_LwDJw7": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Popravite nokte i uklonite gljivične infekcije s <strong>NailClear Pro</strong>! Ovaj inovativni uređaj koristi terapiju plavim svjetlom i infracrveni laser za borbu protiv infekcije, ublažavanje boli i jačanje noktiju.</p>"
+            "content": "<p>Възстановете ноктите си и премахнете гъбичните инфекции с <strong>NailClear Pro!</strong> Това иновативно устройство използва терапия със синя светлина и инфрачервен лазер за борба с инфекцията, облекчаване на болката и заздравяване на ноктите.</p>"
           }
         },
         "button_FwC9gW": {
@@ -228,7 +228,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Kupujte ovdje",
+            "text": "Пазарувайте тук",
             "url": "shopify://products/nailclear-pro",
             "background": "",
             "text_color": ""
@@ -261,30 +261,30 @@
           "type": "text",
           "settings": {
             "rating_stars": "5",
-            "review_title": "Stil i podrška iznad očekivanja!",
-            "review_des": "<p>Uvijek sam bio skeptičan prema ortopedskim cipelama, ali ove su nadmašile moja očekivanja. Nude veliku podršku bez kompromisa u stilu.</p>",
-            "customer_name": "Maja Kovač",
-            "review_date": "prije 11 sati"
+            "review_title": "Стил и поддръжка над очакванията!",
+            "review_des": "<p>Винаги съм бил скептичен към ортопедичните обувки, но тези надминаха очакванията ми. Предоставят отлична поддръжка, без да правят компромис със стила.</p>",
+            "customer_name": "Милена Георгиева",
+            "review_date": "преди 11 часа"
           }
         },
         "text_Dtxxff": {
           "type": "text",
           "settings": {
             "rating_stars": "5",
-            "review_title": "Definitivno bih ponovno kupila!",
-            "review_des": "<p>Kvaliteta je izvrsna, izdržljiv je i radi točno onako kako je obećano. Nevjerojatno sam zadovoljna njime i definitivno bih ga ponovno kupila!</p>",
-            "customer_name": "Ana Marinković",
-            "review_date": "prije 1 dan"
+            "review_title": "Определено бих купила отново!",
+            "review_des": "<p>Качеството е отлично, издръжлив е и работи точно както е обещано. Изключително съм доволна от него и определено бих го купила отново!</p>",
+            "customer_name": "Радостина Стоянова",
+            "review_date": "преди 1 ден"
           }
         },
         "text_GQjKgk": {
           "type": "text",
           "settings": {
             "rating_stars": "4.5",
-            "review_title": "Izdržljive i jednostavne za korištenje",
-            "review_des": "<p>Cipele su visoke kvalitete i rade točno ono što obećavaju. Jednostavni su za korištenje, izdržljivi i u potpunosti ispunjavaju moja očekivanja.</p>",
-            "customer_name": "Tea Radić",
-            "review_date": "Upravo objavljeno"
+            "review_title": "Издръжливи и лесни за използване",
+            "review_des": "<p>Обувките са с високо качество и вършат точно това, което обещават. Лесни са за използване, издръжливи са и напълно отговарят на очакванията ми.</p>",
+            "customer_name": "Васил Тодоров",
+            "review_date": "Току-що публикувано"
           }
         }
       },
@@ -296,7 +296,7 @@
       "settings": {
         "enb": true,
         "review_heading": "",
-        "verified_heading": "Provjereno",
+        "verified_heading": "Проверен",
         "main_rating_stars": "4.5",
         "title": "Fiorado",
         "text": ""
@@ -308,29 +308,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Koje su veličine dostupne?",
-            "content": "<p>Svi naši proizvodi dolaze s priloženom tablicom veličina, tako da možete biti sigurni da ste odabrali pravu veličinu.</p>"
+            "title": "Какви размери са налични?",
+            "content": "<p>Всички наши продукти се доставят с включена таблица с размери, така че можете да сте сигурни, че сте избрали правилния размер.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Mogu li vratiti svoju narudžbu?",
-            "content": "<p>Da, povrat je moguć do 30 dana nakon primitka pošiljke. Za više informacija pogledajte našu politiku povrata.</p>"
+            "title": "Мога ли да върна поръчката си?",
+            "content": "<p>Да, връщането е възможно до 30 дни след получаване на пратката. Вижте нашата политика за връщане за повече информация.</p>"
           }
         },
         "item_CeWA7t": {
           "type": "item",
           "settings": {
-            "title": "Koliko će vremena trebati da moja narudžba bude isporučena?",
-            "content": "<p>Svaka se narudžba pažljivo prati i pakira. Obrada u prosjeku traje 1-2 radna dana. Nakon što je vaša narudžba otpremljena, primit ćete broj za praćenje putem e-pošte. Procijenjeno vrijeme isporuke unutar Europe je 6-12 dana.</p>"
+            "title": "Колко време ще отнеме, докато поръчката ми бъде доставена?",
+            "content": "<p>Всяка поръчка е внимателно проследена и опакована. Обработката отнема средно 1-2 работни дни. След като поръчката ви бъде изпратена, ще получите номер за проследяване по имейл. Очакваното време за доставка в Европа е 6-12 дни.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Ostala pitanja?",
-            "content": "<p>Uvijek nas možete kontaktirati na našoj kontakt stranici. Tu ćemo vam rado pomoći.<br/></p>"
+            "title": "Други въпроси?",
+            "content": "<p>Винаги можете да се свържете с нас на нашата страница за контакти. Ще се радваме да ви помогнем там.</p>"
           }
         }
       },
@@ -343,10 +343,10 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Često postavljana pitanja",
-        "content": "<p>Ovdje ćete pronaći odgovore na najčešće postavljana pitanja. Ako vaše pitanje nije navedeno, kontaktirajte nas. Rado ćemo pomoći!</p>",
+        "title": "Често задавани въпроси",
+        "content": "<p>Тук ще намерите отговори на най-често задаваните въпроси. Ако вашият въпрос не е посочен, свържете се с нас. С удоволствие ще помогнем!</p>",
         "team_avatar_width": 160,
-        "support_hours": "Naš tim korisničke službe dostupan je svaki dan od 8 do 19 sati.",
+        "support_hours": "Нашият екип за обслужване на клиенти е на разположение всеки ден от 8 до 19 часа.",
         "answer_time": "",
         "button_text": "",
         "button_url": "",

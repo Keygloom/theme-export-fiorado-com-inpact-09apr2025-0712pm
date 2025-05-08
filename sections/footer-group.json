@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Besplatna dostava",
-            "content": "<p>Naručite danas i uživajte u besplatnoj dostavi, bez minimalnog iznosa narudžbe. Brzo, jednostavno i ekonomično</p>"
+            "title": "Безплатна доставка",
+            "content": "<p>Поръчайте днес и се насладете на безплатна доставка без минимална сума за поръчка. Бързо, просто и икономично</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Pitanja?",
-            "content": "<p>Imate pitanje? Idite na karticu \"Kontakt\" i kontaktirajte nas. Uvijek Vam stojimo na raspolaganju!</p>"
+            "title": "въпроси?",
+            "content": "<p>Имате въпрос? Отидете в раздела \"Контакти\" и се свържете с нас. Винаги сме на ваше разположение!</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Plaćajte bez brige",
-            "content": "<p>Sva plaćanja obrađuju se potpuno sigurno i šifrirano. Kupujte bezbrižno!</p>"
+            "title": "Плащайте без притеснения",
+            "content": "<p>Всички плащания се обработват напълно сигурно и криптирани. Пазарувайте без притеснения!</p>"
           }
         }
       },
@@ -79,14 +79,14 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": "Pravne veze"
+            "menu_title": "Правни връзки"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "O Fiorado",
-            "content": "<p>U Fiorado vjerujemo da ortopedska moda može biti moderna. Naše cipele i dodaci pružaju savršenu ravnotežu između udobnosti i elegancije, tako da možete bez napora i samopouzdanja prolaziti kroz dan.</p>",
+            "title": "Относно  Fiorado",
+            "content": "<p>Във Fiorado вярваме, че ортопедичната мода може да бъде стилна. Нашите обувки и аксесоари постигат перфектния баланс между комфорт и елегантност, така че да можете да преминете през деня без усилие и уверено.</p>",
             "enable_follow_on_shop": false
           }
         }
