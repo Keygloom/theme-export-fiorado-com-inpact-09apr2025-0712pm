@@ -30,25 +30,12 @@
         "overlay_opacity": 30
       }
     },
-    "main": {
-      "type": "main-collection",
-      "settings": {
-        "products_per_page": 24,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "filter_layout": "sidebar",
-        "show_sort_by": true,
-        "show_filters": true,
-        "show_filter_group_name": false,
-        "show_filter_values_count": true,
-        "open_first_filter_group": false
-      }
-    },
     "slideshow_XENNYY": {
       "type": "slideshow",
       "blocks": {
         "image_bLqq8k": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Zenske_cipele_sada_snizene_do_cak_75_Ne_propustite_ovu_ogranicenu_ponudu..png",
             "mobile_image": "shopify://shop_images/Zenske_cipele_sada_snizene_do_cak_75_Ne_propustite_ovu_ogranicenu_ponudu._800_x_600_px.png",
@@ -83,8 +70,22 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "products_per_page": 24,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "filter_layout": "sidebar",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_first_filter_group": false
       }
     }
   },
