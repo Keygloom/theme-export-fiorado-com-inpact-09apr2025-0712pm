@@ -328,7 +328,7 @@
         "arrow_hover_effect": "color",
         "arrow_show_desktop": true,
         "arrow_show_mobile": false,
-        "bottom_text": "<p>Rated <strong>4.7</strong> / 5 based on 1154 reviews. Showing our 5-star reviews.</p>",
+        "bottom_text": "<p>Оценен с <strong>4,7 </strong>/ 5 въз основа на 1154 отзива. Показване на нашите 5-звездни отзиви.</p>",
         "bottom_text_custom": false,
         "bottom_text_font": "josefin_sans_n4",
         "bottom_text_size": 13,
