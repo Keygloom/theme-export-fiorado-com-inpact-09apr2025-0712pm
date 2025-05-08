@@ -417,7 +417,8 @@
   "product": {
     "gallery": {
       "zoom": "Уголемяване",
-      "error": "Снимката не можа да бъде заредена."
+      "error": "Снимката не можа да бъде заредена.",
+      "close": "Затвори галерията"
     },
     "price": {
       "regular_price": "Редовна цена",
@@ -461,6 +462,30 @@
       "pick_up_currently_unavailable": "Вземане от магазина не е възможно",
       "pick_up_available_at": "Изтегляне до: {{ location_name }}",
       "pick_up_unavailable_at": "Изтеглянето не е налично в: {{ location_name }}"
+    },
+    "general": {
+      "view_product": "Вижте продукта",
+      "quick_add": "+ Добави в количката",
+      "add_to_cart_button": "Добави в количката",
+      "pre_order_button": "Предварителна продажба",
+      "sold_out_button": "Разпродадено",
+      "unavailable_button": "Не е налично",
+      "added_to_cart": "Добавено в количката!",
+      "sold_out_badge": "Разпродадено",
+      "on_sale_badge": "Разпродажба",
+      "discount_badge_html": "Спестете {{ savings }}",
+      "variant": "Вариант",
+      "view_in_space": "Вижте в космоса",
+      "taxes_included": "Включително данък.",
+      "taxes_excluded": "Без данъци.",
+      "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;&lt;span%20class='notranslate'&gt;{&lt;span%20class='notranslate'&gt;{%20link%20}}&lt;/span&gt;&lt;/span&gt;\" class=\"link\">Цена на доставката</a> при плащане",
+      "size_chart": "Таблица с размери",
+      "available_colors_count": {
+        "one": "{{ count }} наличен цвят",
+        "few": "Налични са {{ count }} цвята",
+        "many": "Налични са {{ count }} цвята",
+        "other": "Налични са {{ count }} цвята"
+      }
     }
   },
   "cart": {
@@ -715,7 +740,104 @@
       "orders": "Поръчки",
       "addresses": "Адреси",
       "logout": "Изход",
-      "no_orders": "Все още не сте направили никакви поръчки."
+      "no_orders": "Все още не сте направили никакви поръчки.",
+      "continue_shopping": "Продължете пазаруването"
+    },
+    "login": {
+      "title": "Вход",
+      "password": "Парола",
+      "submit": "Вход",
+      "forgot_password": "Забравена парола?",
+      "sign_up": "Вход",
+      "email": "Имейл адрес"
+    },
+    "recover_password": {
+      "title": "Възстановяване на парола",
+      "submit": "Възстановяване на парола",
+      "back_to_login": "Връщане към вход",
+      "success_message": "На вашия адрес е изпратен имейл с инструкции как да възстановите паролата си.",
+      "email": "Имейл адрес"
+    },
+    "register": {
+      "title": "Вход",
+      "first_name": "Име",
+      "last_name": "Фамилия",
+      "password": "Парола",
+      "accepts_marketing": "Абонирайте се за нашия бюлетин",
+      "submit": "Създаване на акаунт",
+      "login": "Вход",
+      "email": "Имейл адрес"
+    },
+    "activate_account": {
+      "title": "Активирайте акаунта си",
+      "instructions": "Въведете паролата си, за да създадете акаунт:",
+      "password": "Парола",
+      "password_confirmation": "Повторете паролата",
+      "submit": "Активиране",
+      "cancel": "Отказ"
+    },
+    "reset_password": {
+      "title": "Възстановяване на паролата",
+      "password": "Парола",
+      "password_confirmation": "Повторете паролата",
+      "submit": "Нулиране"
+    },
+    "order": {
+      "order": "Поръчка",
+      "order_name": "Поръчка {{name}}",
+      "view_details": "Преглед на подробностите за поръчката",
+      "back": "Връщане",
+      "date": "Дата",
+      "payment_status": "Статус на плащането",
+      "fulfillment_status": "Състояние на внедряването",
+      "cancelled_on": "Анулирано: {{date}} . Причина: {{reason}}",
+      "product": "Продукт",
+      "quantity": "Сума",
+      "fulfillment_with_number": "Всички артикули бяха изпратени на {{date}} . Проследете пратката си, използвайки вашия {{tracking_number}} номер.",
+      "fulfillment": "Вашата поръчка беше изпратена на {{date}} .",
+      "track_shipment": "Проследяване на пратката ви",
+      "subtotal": "Стойност на продукта",
+      "discount": "Отстъпка",
+      "shipping": "Метод на доставка",
+      "taxes_included": "Включително данък",
+      "taxes_excluded": "Без данък",
+      "total_duties": "Митници",
+      "refunded_amount": "Възстановена сума",
+      "total": "Заедно",
+      "shipping_address": "Адрес за доставка",
+      "billing_address": "Адрес за фактуриране"
+    },
+    "addresses": {
+      "no_addresses": "Все още не сте запазили никакви адреси.",
+      "add_address": "Добавяне на нов адрес",
+      "edit_address": "Редактиране на адрес",
+      "save_address": "Запазете адреса",
+      "edit": "Редактиране",
+      "delete": "Изтриване",
+      "default_address": "Адрес по подразбиране",
+      "address_title": "Адрес {{ position }}",
+      "delete_confirm": "Сигурни ли сте, че искате да изтриете този адрес?",
+      "fill_form": "Попълнете полетата по-долу:",
+      "first_name": "Име",
+      "last_name": "Фамилия",
+      "company": "работа",
+      "phone": "Телефонен номер",
+      "address1": "Улица и номер на сграда",
+      "address2": "Номер на апартамент",
+      "city": "Град",
+      "zip": "Пощенски код",
+      "country": "Земя",
+      "province": "Провинция",
+      "set_default": "Задай по подразбиране"
+    }
+  },
+  "header": {
+    "general": {
+      "account": "Профил",
+      "login": "Вход",
+      "menu": "Меню ",
+      "search": "Търсене",
+      "cart": "Кошница"
     }
   }
 }
