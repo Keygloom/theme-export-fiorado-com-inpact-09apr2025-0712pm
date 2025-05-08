@@ -12,74 +12,95 @@
     "checkout": {
       "shipping": {
         "estimated_delivery_date": {
-          "few": "Брой работни дни: %{count}"
+          "few": "Брой работни дни: %{count}",
+          "many": "Брой работни дни: %{count}"
         },
         "other_method": {
-          "few": "%{count} още начини са налични, започващи от"
+          "few": "%{count} още начини са налични, започващи от",
+          "many": "Брой други налични методи: %{count} - от"
         },
         "subscription_delivery_description": {
           "prepaid_delivery_frequency": {
-            "few": "за %{count} доставки"
+            "few": "за %{count} доставки",
+            "many": "за %{count} доставки"
           },
           "subscription_delivery_frequency": {
             "day": {
-              "few": "всеки %{count} дни"
+              "few": "всеки %{count} дни",
+              "many": "всеки %{count} дни"
             },
             "week": {
-              "few": "на всеки толкова седмици: %{count}"
+              "few": "на всеки толкова седмици: %{count}",
+              "many": "всеки %{count} седмици"
             },
             "month": {
-              "few": "на всеки толкова месеци: %{count}"
+              "few": "на всеки толкова месеци: %{count}",
+              "many": "на всеки %{count} месеца"
             },
             "year": {
-              "few": "на всеки толкова години: %{count}"
+              "few": "на всеки толкова години: %{count}",
+              "many": "на всеки %{count} години"
             }
           },
           "first_n_order_free": {
-            "few": "Следващият брой първи поръчки: %{count} е безплатен"
+            "few": "Следващият брой първи поръчки: %{count} е безплатен",
+            "many": "Първите %{count} поръчки са безплатни"
           },
           "free_for_first_n_order": {
-            "few": "За следния брой първи поръчки: %{count}"
+            "few": "За следния брой първи поръчки: %{count}",
+            "many": "За %{count} първи поръчки"
           },
           "free_shipping_cycles": {
-            "few": "Безплатна доставка за още %{count} доставки"
+            "few": "Безплатна доставка за още %{count} доставки",
+            "many": "Безплатна доставка за %{count} последващи доставки"
           },
           "free_shipping_cycles_delivery_not_included": {
-            "few": "Безплатна доставка за %{count} доставки"
+            "few": "Безплатна доставка за %{count} доставки",
+            "many": "Безплатна доставка за %{count} пратки"
           },
           "first_n_order_free_with_cycle": {
-            "few": "Безплатна доставка за още %{count} доставки, след което %{recurring_order_shipping_price}"
+            "few": "Безплатна доставка за още %{count} доставки, след което %{recurring_order_shipping_price}",
+            "many": "Безплатна доставка за %{count} следващи доставки, след което %{recurring_order_shipping_price}"
           },
           "first_n_order_free_with_cycle_delivery_not_included": {
-            "few": "Безплатна доставка за %{count} пратки, след което %{recurring_order_shipping_price}"
+            "few": "Безплатна доставка за %{count} пратки, след което %{recurring_order_shipping_price}",
+            "many": "Безплатна доставка за %{count} пратки, след което %{recurring_order_shipping_price}"
           },
           "max_cycles_base_shipping": {
-            "few": "%{count} още доставки на цена от %{shipping_price} всяка"
+            "few": "%{count} още доставки на цена от %{shipping_price} всяка",
+            "many": "За следващите %{count} пратки, цената за всяка е %{shipping_price}"
           },
           "max_cycles_base_shipping_delivery_not_included": {
-            "few": "%{count} още доставки на цена от %{shipping_price} всяка"
+            "few": "%{count} още доставки на цена от %{shipping_price} всяка",
+            "many": "За следващите %{count} пратки, цената за всяка е %{shipping_price}"
           },
           "prepaid_free_shipping_with_cycles": {
-            "few": "Безплатна доставка за първия цикъл (%{cycle}), след това %{recurring_order_shipping_price}"
+            "few": "Безплатна доставка за първия цикъл (%{cycle}), след това %{recurring_order_shipping_price}",
+            "many": "Безплатна доставка за първия %{cycle}, след това %{recurring_order_shipping_price}"
           },
           "prepaid_order_one_cycle": {
-            "few": "Доставка от %{shipping_price} за още %{count} доставки (%{per_delivery_cost})"
+            "few": "Доставка от %{shipping_price} за още %{count} доставки (%{per_delivery_cost})",
+            "many": "%{shipping_price} за %{count} последващи доставки (%{per_delivery_cost})"
           },
           "prepaid_order_one_cycle_delivery_not_included": {
-            "few": "Доставка от %{shipping_price} за %{count} доставки (%{per_delivery_cost})"
+            "few": "Доставка от %{shipping_price} за %{count} доставки (%{per_delivery_cost})",
+            "many": "%{shipping_price} за %{count} доставки (%{per_delivery_cost})"
           },
           "prepaid_order_no_cycle": {
             "few": "Доставка от %{shipping_price} за още %{count} доставки (%{per_delivery_cost}), след което плащате %{recurring_order_shipping_price}"
           },
           "prepaid_order_no_cycle_delivery_not_included": {
-            "few": "Доставка от %{shipping_price} за %{count} доставки (%{per_delivery_cost}), след което плащате %{recurring_order_shipping_price}"
+            "few": "Доставка от %{shipping_price} за %{count} доставки (%{per_delivery_cost}), след което плащате %{recurring_order_shipping_price}",
+            "many": "%{shipping_price} за %{count} доставки (%{per_delivery_cost}), след това %{recurring_order_shipping_price}"
           }
         },
         "shipping_method_first_shipment_group_title": {
-          "few": "Първи пратки"
+          "few": "Първи пратки",
+          "many": "Първи пратки"
         },
         "shipping_method_recurring_shipments_group_title": {
-          "few": "Повтарящи се пратки"
+          "few": "Повтарящи се пратки",
+          "many": "Периодични доставки"
         }
       },
       "general": {
@@ -99,21 +120,26 @@
       "stock": {
         "unshippable_product": {
           "header": {
-            "few": "Няма повече артикули (%{count}) които се доставят на вашия адрес."
+            "few": "Няма повече артикули (%{count}) които се доставят на вашия адрес.",
+            "many": "Доставката не е налична за %{count} артикула"
           },
           "message": {
-            "few": "Ще премахнем тези артикули от количката ви, защото не се доставят на вашия адрес."
+            "few": "Ще премахнем тези артикули от количката ви, защото не се доставят на вашия адрес.",
+            "many": "Тези артикули ще бъдат премахнати от количката ви, тъй като няма налични методи за доставка за вашия адрес."
           }
         },
         "item_label": {
-          "few": "Брой артикули: {{count}}"
+          "few": "Брой артикули: {{count}}",
+          "many": "{{count}} артикула"
         },
         "unfulfillable_product": {
           "message": {
-            "few": "%{delivery_method} вече не е наличен за тези артикули."
+            "few": "%{delivery_method} вече не е наличен за тези артикули.",
+            "many": "Метод: %{delivery_method} вече не е наличен за тези артикули."
           },
           "default_message": {
-            "few": "Избраният метод на доставка вече не е наличен за този артикул."
+            "few": "Избраният метод на доставка вече не е наличен за този артикул.",
+            "many": "Избраният метод на доставка вече не е наличен за тези артикули."
           }
         }
       },
@@ -124,47 +150,59 @@
           }
         },
         "expand_component_information": {
-          "few": "Показване на елементи (%{count})"
+          "few": "Показване на елементи (%{count})",
+          "many": "Показване на %{count} елементи"
         },
         "collapse_component_information": {
-          "few": "Скриване на елементи (%{count})"
+          "few": "Скриване на елементи (%{count})",
+          "many": "Скриване на %{count} елементи"
         },
         "discount_discovery": {
           "merchandise_quantity_label": {
-            "few": "Брой артикули: %{count}"
+            "few": "Брой артикули: %{count}",
+            "many": "%{count} артикула"
           }
         },
         "discount_title_stacking": {
-          "few": "Отстъпки"
+          "few": "Отстъпки",
+          "many": "Отстъпки"
         },
         "discount_order_stacking": {
-          "few": "Отстъпки за поръчки"
+          "few": "Отстъпки за поръчки",
+          "many": "Отстъпки за поръчки"
         },
         "subtotal_label_with_quantity": {
-          "few": "Междинна сума • бр. %{count} артикула"
+          "few": "Междинна сума • бр. %{count} артикула",
+          "many": "Междинна сума · артикули: %{count}"
         },
         "number_items": {
-          "few": "Брой артикули: %{count}"
+          "few": "Брой артикули: %{count}",
+          "many": "%{count} артикула"
         },
         "view_all_items": {
-          "few": "Показване на всички елементи (%{count} общо)"
+          "few": "Показване на всички елементи (%{count} общо)",
+          "many": "Показване на всички елементи: %{count}"
         },
         "pickup_unavailable_banner_title": {
-          "few": "Няма налични магазини с вашите артикули"
+          "few": "Няма налични магазини с вашите артикули",
+          "many": "Вашите артикули не са налични за вземане от магазина."
         }
       },
       "payment": {
         "order_covered_by_gift_cards_notice": {
-          "few": "Поръчката е покрита от вашите подаръчни карти."
+          "few": "Поръчката е покрита от вашите подаръчни карти.",
+          "many": "Поръчката е покрита с подаръчни карти."
         },
         "card_fields_unavailable_html": {
           "few": "Плащанията с кредитни и дебитни карти в момента не са налични.<br> <a href=\"%{current_url}\">Обновете тази страница</a> или опитайте друг метод на плащане."
         },
         "expired_cards_info": {
-          "few": "Имате още карти с изтекъл срок на валидност (%{count}) и можете да преглеждате и редактирате информацията за тях в профила си."
+          "few": "Имате още карти с изтекъл срок на валидност (%{count}) и можете да преглеждате и редактирате информацията за тях в профила си.",
+          "many": "Имате %{count} остарели карти, които можете да преглеждате и редактирате в профила си."
         },
         "order_edit_banner_items_added": {
-          "few": "Добавено: %{count}"
+          "few": "Добавено: %{count}",
+          "many": "%{count} е добавен"
         }
       },
       "shipping_errors": {
@@ -178,28 +216,35 @@
       "processing": {
         "wait": {
           "medium": {
-            "few": "Вашата поръчка се обработва. Очаквано време за изчакване в минути: %{count}."
+            "few": "Вашата поръчка се обработва. Очаквано време за изчакване в минути: %{count}.",
+            "many": "Вашата поръчка се обработва. Очаквано време за изчакване: %{count} минути."
           }
         }
       },
       "thank_you": {
         "login_reorder_link_text": {
-          "few": "купете и тези продукти"
+          "few": "купете и тези продукти",
+          "many": "купете и тези продукти"
         },
         "gift_card_confirmation_by_text_typ": {
-          "few": "Ще получите SMS с вашите подаръчни карти след няколко минути."
+          "few": "Ще получите SMS с вашите подаръчни карти след няколко минути.",
+          "many": "В рамките на няколко минути ще получите SMS с подаръчните карти."
         },
         "gift_card_confirmation_by_email_typ": {
-          "few": "Ще получите имейл с вашите подаръчни карти след няколко минути."
+          "few": "Ще получите имейл с вашите подаръчни карти след няколко минути.",
+          "many": "Ще получите имейл с вашите подаръчни карти в рамките на няколко минути."
         },
         "gift_card_email_title": {
-          "few": "Изпратихме ви подаръчни карти по имейл."
+          "few": "Изпратихме ви подаръчни карти по имейл.",
+          "many": "Подаръчните карти бяха изпратени по имейл."
         },
         "gift_card_text_title": {
-          "few": "Изпратихме ви pokon-карти чрез SMS"
+          "few": "Изпратихме ви pokon-карти чрез SMS",
+          "many": "Подаръчните карти бяха изпратени чрез SMS."
         },
         "gift_card_resent_confirmation": {
-          "few": "Подаръчните карти са изпратени отново."
+          "few": "Подаръчните карти са изпратени отново.",
+          "many": "Подаръчните карти са изпратени отново."
         },
         "gift_card_resend_failure": {
           "few": "Възникна проблем при повторното изпращане на вашите подаръчни карти. Моля, опитайте отново или се свържете с нас."
@@ -208,115 +253,140 @@
       "order_payment_collection": {
         "changes_summary": {
           "added": {
-            "few": "Добавено: %{count}"
+            "few": "Добавено: %{count}",
+            "many": "%{count} е добавен"
           }
         }
       },
       "open_graph_meta_tag": {
         "title_with_products": {
-          "few": "Купете %{product_name} и още %{count} артикула"
+          "few": "Купете %{product_name} и още %{count} артикула",
+          "many": "Купете %{product_name} и %{count} други артикули/други артикули"
         }
       },
       "subscriptions": {
         "recurring_totals_with_policies": {
           "first_cycles": {
-            "few": "Първи %{count} индивидуални плащания %{total_price}"
+            "few": "Първи %{count} индивидуални плащания %{total_price}",
+            "many": "Първите %{count} плащания след %{total_price}"
           }
         },
         "recurring_total_intervals": {
           "day": {
-            "few": "%{count} дни"
+            "few": "%{count} дни",
+            "many": "%{count} дни"
           },
           "week": {
-            "few": "%{count} седмици."
+            "few": "%{count} седмици.",
+            "many": "%{count} седмици"
           },
           "month": {
-            "few": "%{count} месеца."
+            "few": "%{count} месеца.",
+            "many": "%{count} месеца"
           },
           "year": {
-            "few": "%{count} години"
+            "few": "%{count} години",
+            "many": "%{count} години"
           }
         },
         "recurring_totals_with_initial_order_shipping_discount_with_policies": {
           "first_cycles": {
-            "few": ", тогава следният брой плащания: %{count} по %{total_price} всяко"
+            "few": ", тогава следният брой плащания: %{count} по %{total_price} всяко",
+            "many": ", след това %{count} плащания на %{total_price}"
           }
         }
       },
       "contextual_availability": {
         "title": {
-          "few": "Неналични продукти"
+          "few": "Неналични продукти",
+          "many": "Продуктите са недостъпни"
         },
         "products_not_available": {
-          "few": "Тези продукти ще бъдат премахнати от количката ви, защото не са налични във вашата държава/регион."
+          "few": "Тези продукти ще бъдат премахнати от количката ви, защото не са налични във вашата държава/регион.",
+          "many": "Тези продукти ще бъдат премахнати от количката ви, защото не са налични във вашата държава/регион."
         },
         "all_products_in_cart_unavailable": {
-          "few": "Тези продукти не са налични във вашата държава/регион."
+          "few": "Тези продукти не са налични във вашата държава/регион.",
+          "many": "Тези продукти не са налични във вашата държава/регион."
         }
       },
       "throttle": {
         "estimated_wait_time": {
-          "few": "Очаквано време за изчакване: {{count}} мин."
+          "few": "Очаквано време за изчакване: {{count}} мин.",
+          "many": "Очаквано време за изчакване: {{count}} минути"
         }
       },
       "deliverability": {
         "not_deliverable": {
           "title": {
-            "few": "Няма повече артикули (%{count}) които се доставят на вашия адрес."
+            "few": "Няма повече артикули (%{count}) които се доставят на вашия адрес.",
+            "many": "Доставката не е налична за %{count} артикула"
           },
           "message": {
-            "few": "Ще премахнем тези артикули от количката ви, защото не се доставят на вашия адрес."
+            "few": "Ще премахнем тези артикули от количката ви, защото не се доставят на вашия адрес.",
+            "many": "Тези артикули ще бъдат премахнати от количката ви, тъй като няма налични методи за доставка за вашия адрес."
           }
         }
       },
       "pickup_point": {
         "paginator": {
           "header": {
-            "few": "Показване на %{first} - %{last} от %{count} места"
+            "few": "Показване на %{first} - %{last} от %{count} места",
+            "many": "Показване на %{first} - %{last} от %{count} точки"
           },
           "selected_pickup_point_label": {
-            "few": "%{pickup_point_index} от %{count} локации"
+            "few": "%{pickup_point_index} от %{count} локации",
+            "many": "%{pickup_point_index} от %{count} точки"
           },
           "selected_page": {
-            "few": "%{first} - %{last} от %{count} места"
+            "few": "%{first} - %{last} от %{count} места",
+            "many": "%{first} - %{last} от %{count} точки"
           }
         },
         "number_of_pickup_points_near_location": {
-          "few": "Има няколко места за вземане близо до вашето местоположение (%{count})"
+          "few": "Има няколко места за вземане близо до вашето местоположение (%{count})",
+          "many": "%{count} пункта за събиране близо до вашето местоположение"
         },
         "pickup_unavailable_banner_title": {
-          "few": "Няма налични места за вземане на вашите артикули."
+          "few": "Няма налични места за вземане на вашите артикули.",
+          "many": "Вашите артикули не са налични на местата за вземане."
         }
       },
       "local_pickup": {
         "location_information": {
-          "few": "Артикулът е наличен в %{count} магазина близо до %{address}"
+          "few": "Артикулът е наличен в %{count} магазина близо до %{address}",
+          "many": "Брой магазини с консумативи близо до %{address}: %{count}"
         },
         "paginator": {
           "label": {
-            "few": "%{first} - %{last} от %{count} магазина"
+            "few": "%{first} - %{last} от %{count} магазина",
+            "many": "%{first} - %{last} от %{count} магазина"
           }
         },
         "reveal_more_label": {
-          "few": "Показване на още местоположения (%{count} още)"
+          "few": "Показване на още местоположения (%{count} още)",
+          "many": "Показване на още %{count} местоположения."
         }
       },
       "merchandise_unavailable_in_buyer_location": {
         "remove_items_action": {
-          "few": "премахнете елементи, които не са налични"
+          "few": "премахнете елементи, които не са налични",
+          "many": "премахнете недостъпните елементи"
         }
       }
     },
     "notices": {
       "order": {
         "cancel_reason": {
-          "few": "Иначе"
+          "few": "Иначе",
+          "many": "друг"
         }
       }
     },
     "page_titles": {
       "search_results": {
-        "few": "Търсене: %{count} резултата са намерени за \"%{terms}\""
+        "few": "Търсене: %{count} резултата са намерени за \"%{terms}\"",
+        "many": "Търсене: Намерени са %{count} резултата за „%{terms}“"
       }
     }
   },
@@ -324,46 +394,57 @@
     "orders": {
       "order_list": {
         "items": {
-          "few": "Брой артикули: {{count}}"
+          "few": "Брой артикули: {{count}}",
+          "many": "{{count}} артикула"
         }
       },
       "order_status": {
         "delivered_description_gift_card": {
-          "few": "Изпратихме ви подаръчни карти по имейл."
+          "few": "Изпратихме ви подаръчни карти по имейл.",
+          "many": "Подаръчните карти бяха изпратени по имейл."
         },
         "gift_card_label": {
-          "few": "Подаръчни карти"
+          "few": "Подаръчни карти",
+          "many": "Подаръчни карти"
         },
         "confirmed_gift_card_additional_description": {
-          "few": "Всяка подаръчна карта се изпраща в отделен имейл."
+          "few": "Всяка подаръчна карта се изпраща в отделен имейл.",
+          "many": "Всяка подаръчна карта ще бъде изпратена в отделен имейл."
         },
         "delivered_description_gift_card_text": {
-          "few": "Изпратихме ви подаръчните карти чрез SMS."
+          "few": "Изпратихме ви подаръчните карти чрез SMS.",
+          "many": "Подаръчните карти се изпращат чрез SMS."
         },
         "confirmed_gift_card_additional_description_text": {
-          "few": "Ще получите всяка подаръчна карта в отделен SMS."
+          "few": "Ще получите всяка подаръчна карта в отделен SMS.",
+          "many": "Всяка подаръчна карта ще бъде изпратена в отделно текстово съобщение."
         },
         "gift_resend_success": {
-          "few": "Подаръчните карти са изпратени отново."
+          "few": "Подаръчните карти са изпратени отново.",
+          "many": "Подаръчните карти са изпратени отново"
         },
         "gift_resend_failure": {
           "few": "Възникна проблем при повторното изпращане на вашите подаръчни карти. Моля, опитайте отново или се свържете с нас."
         },
         "delivered_description_digital": {
-          "few": "Тези елементи са завършени."
+          "few": "Тези елементи са завършени.",
+          "many": "Тези елементи са завършени."
         },
         "tracking_number": {
-          "few": "Проследяващи номера"
+          "few": "Проследяващи номера",
+          "many": "Проследяващи номера"
         },
         "gift_card_resend_button": {
-          "few": "Изпратете отново подаръчни карти"
+          "few": "Изпратете отново подаръчни карти",
+          "many": "Изпратете отново подаръчни карти"
         }
       }
     },
     "order_details": {
       "image_gallery": {
         "load_more_items": {
-          "few": "Зареждане на още елементи: {{count}}"
+          "few": "Зареждане на още елементи: {{count}}",
+          "many": "Зареждане на още {{count}} елемента"
         }
       }
     },
@@ -372,7 +453,8 @@
         "draft_order_list": {
           "pending_tab_accessibility_label": {
             "pending_orders": {
-              "few": "Имате няколко чакащи поръчки ( {{count}} )"
+              "few": "Имате няколко чакащи поръчки ( {{count}} )",
+              "many": "Имате {{count}} чакащи поръчки."
             }
           }
         }
@@ -381,10 +463,12 @@
         "payment_status": {
           "pending": {
             "banner_overdue": {
-              "few": "Закъснявате с плащането си с {{count}} дни."
+              "few": "Закъснявате с плащането си с {{count}} дни.",
+              "many": "Плащането ви е закъсняло с {{count}} дни."
             },
             "banner_due": {
-              "few": "Плащането е дължимо след {{count}} дни"
+              "few": "Плащането е дължимо след {{count}} дни",
+              "many": "Плащането ви е дължимо след {{count}} дни"
             }
           }
         }
@@ -392,24 +476,29 @@
     },
     "errors": {
       "banner_title": {
-        "few": "Възникнаха множество грешки ( {{count}} )"
+        "few": "Възникнаха множество грешки ( {{count}} )",
+        "many": "Брой генерирани грешки: {{count}}"
       }
     },
     "ui_components": {
       "autocompleteOptionsAvailable": {
-        "few": "Налични са следният брой артикули: {{count}}"
+        "few": "Налични са следният брой артикули: {{count}}",
+        "many": "Брой налични артикули: {{count}}"
       },
       "month": {
-        "few": "месеци"
+        "few": "месеци",
+        "many": "месеци"
       },
       "mapClusterTitle": {
-        "few": "Комплект от {{number}} маркера"
+        "few": "Комплект от {{number}} маркера",
+        "many": "Маркери на клъстер {{number}}"
       }
     },
     "date": {
       "humanize": {
         "lessThanOneHourAgo": {
-          "few": "преди {{count}} минути"
+          "few": "преди {{count}} минути",
+          "many": "преди {{count}} минути"
         }
       }
     }
@@ -582,7 +671,15 @@
       "redeem_instructions": "За да използвате картата, използвайте този код:",
       "code": "Код за подаръчна карта",
       "expires_on": "Изтича: {{ expires_on }}",
-      "expired": "Вашата подаръчна карта е изтекла или е деактивирана."
+      "expired": "Вашата подаръчна карта е изтекла или е деактивирана.",
+      "add_to_apple_wallet": "Добавяне към Apple Wallet"
+    },
+    "recipient": {
+      "checkbox": "Искам да го изпратя като подарък.",
+      "email_label": "Имейл адрес на получателя",
+      "name_label": "Име на получателя (по избор)",
+      "send_on_label": "Изпрати (по избор)",
+      "message_label": "Съобщение (по избор)"
     }
   },
   "general": {
@@ -593,7 +690,10 @@
       "next": "Следване",
       "previous": "Преди това",
       "play_video": "Пусни видеото",
-      "read_more": "Прочетете още"
+      "read_more": "Прочетете още",
+      "skip_to_content": "Премини към съдържанието",
+      "pagination": "Навигация по страниците",
+      "go_to_page": "Отидете на страница {{ index }}"
     },
     "label": {
       "color": "Цвят",
@@ -636,7 +736,9 @@
       "product_title": "Продукт",
       "product_description": "Напишете нещо за вашия продукт.",
       "collection_title": "Колекция"
-    }
+    },
+    "page": "Страница {{ page }}",
+    "home": "Начална страница"
   },
   "password": {
     "storefront_access": {
