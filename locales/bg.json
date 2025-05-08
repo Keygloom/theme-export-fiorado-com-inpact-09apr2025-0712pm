@@ -1,0 +1,563 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "shopify": {
+    "checkout": {
+      "shipping": {
+        "estimated_delivery_date": {
+          "few": "Брой работни дни: %{count}"
+        },
+        "other_method": {
+          "few": "%{count} още начини са налични, започващи от"
+        },
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "few": "за %{count} доставки"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "few": "всеки %{count} дни"
+            },
+            "week": {
+              "few": "на всеки толкова седмици: %{count}"
+            },
+            "month": {
+              "few": "на всеки толкова месеци: %{count}"
+            },
+            "year": {
+              "few": "на всеки толкова години: %{count}"
+            }
+          },
+          "first_n_order_free": {
+            "few": "Следващият брой първи поръчки: %{count} е безплатен"
+          },
+          "free_for_first_n_order": {
+            "few": "За следния брой първи поръчки: %{count}"
+          },
+          "free_shipping_cycles": {
+            "few": "Безплатна доставка за още %{count} доставки"
+          },
+          "free_shipping_cycles_delivery_not_included": {
+            "few": "Безплатна доставка за %{count} доставки"
+          },
+          "first_n_order_free_with_cycle": {
+            "few": "Безплатна доставка за още %{count} доставки, след което %{recurring_order_shipping_price}"
+          },
+          "first_n_order_free_with_cycle_delivery_not_included": {
+            "few": "Безплатна доставка за %{count} пратки, след което %{recurring_order_shipping_price}"
+          },
+          "max_cycles_base_shipping": {
+            "few": "%{count} още доставки на цена от %{shipping_price} всяка"
+          },
+          "max_cycles_base_shipping_delivery_not_included": {
+            "few": "%{count} още доставки на цена от %{shipping_price} всяка"
+          },
+          "prepaid_free_shipping_with_cycles": {
+            "few": "Безплатна доставка за първия цикъл (%{cycle}), след това %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_one_cycle": {
+            "few": "Доставка от %{shipping_price} за още %{count} доставки (%{per_delivery_cost})"
+          },
+          "prepaid_order_one_cycle_delivery_not_included": {
+            "few": "Доставка от %{shipping_price} за %{count} доставки (%{per_delivery_cost})"
+          },
+          "prepaid_order_no_cycle": {
+            "few": "Доставка от %{shipping_price} за още %{count} доставки (%{per_delivery_cost}), след което плащате %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_no_cycle_delivery_not_included": {
+            "few": "Доставка от %{shipping_price} за %{count} доставки (%{per_delivery_cost}), след което плащате %{recurring_order_shipping_price}"
+          }
+        },
+        "shipping_method_first_shipment_group_title": {
+          "few": "Първи пратки"
+        },
+        "shipping_method_recurring_shipments_group_title": {
+          "few": "Повтарящи се пратки"
+        }
+      },
+      "general": {
+        "map": {
+          "cluster_title": {
+            "few": "Комплект от {{number}} маркера",
+            "many": "Маркери на клъстер {{number}}"
+          }
+        }
+      },
+      "customer_account": {
+        "saved_address_option_description": {
+          "few": "Имате няколко запазени адреса ( {{count}} ).",
+          "many": "Брой запазени от вас адреси: {{count}} ."
+        }
+      },
+      "stock": {
+        "unshippable_product": {
+          "header": {
+            "few": "Няма повече артикули (%{count}) които се доставят на вашия адрес."
+          },
+          "message": {
+            "few": "Ще премахнем тези артикули от количката ви, защото не се доставят на вашия адрес."
+          }
+        },
+        "item_label": {
+          "few": "Брой артикули: {{count}}"
+        },
+        "unfulfillable_product": {
+          "message": {
+            "few": "%{delivery_method} вече не е наличен за тези артикули."
+          },
+          "default_message": {
+            "few": "Избраният метод на доставка вече не е наличен за този артикул."
+          }
+        }
+      },
+      "order_summary": {
+        "unit_price": {
+          "per_item": {
+            "few": "%{price} за %{count} артикула"
+          }
+        },
+        "expand_component_information": {
+          "few": "Показване на елементи (%{count})"
+        },
+        "collapse_component_information": {
+          "few": "Скриване на елементи (%{count})"
+        },
+        "discount_discovery": {
+          "merchandise_quantity_label": {
+            "few": "Брой артикули: %{count}"
+          }
+        },
+        "discount_title_stacking": {
+          "few": "Отстъпки"
+        },
+        "discount_order_stacking": {
+          "few": "Отстъпки за поръчки"
+        },
+        "subtotal_label_with_quantity": {
+          "few": "Междинна сума • бр. %{count} артикула"
+        },
+        "number_items": {
+          "few": "Брой артикули: %{count}"
+        },
+        "view_all_items": {
+          "few": "Показване на всички елементи (%{count} общо)"
+        },
+        "pickup_unavailable_banner_title": {
+          "few": "Няма налични магазини с вашите артикули"
+        }
+      },
+      "payment": {
+        "order_covered_by_gift_cards_notice": {
+          "few": "Поръчката е покрита от вашите подаръчни карти."
+        },
+        "card_fields_unavailable_html": {
+          "few": "Плащанията с кредитни и дебитни карти в момента не са налични.<br> <a href=\"%{current_url}\">Обновете тази страница</a> или опитайте друг метод на плащане."
+        },
+        "expired_cards_info": {
+          "few": "Имате още карти с изтекъл срок на валидност (%{count}) и можете да преглеждате и редактирате информацията за тях в профила си."
+        },
+        "order_edit_banner_items_added": {
+          "few": "Добавено: %{count}"
+        }
+      },
+      "shipping_errors": {
+        "shipping_method_not_available_generic": {
+          "few": "Някои артикули във вашата количка не могат да бъдат доставени на въведения от вас адрес. Моля, проверете дали адресът е правилен и опитайте отново или изберете друг адрес."
+        },
+        "shipping_method_not_available_updated": {
+          "few": "Един или повече от добавените от вас артикули не са доставени до вашето местоположение. Отстранете ги и проверете или се свържете с магазина."
+        }
+      },
+      "processing": {
+        "wait": {
+          "medium": {
+            "few": "Вашата поръчка се обработва. Очаквано време за изчакване в минути: %{count}."
+          }
+        }
+      },
+      "thank_you": {
+        "login_reorder_link_text": {
+          "few": "купете и тези продукти"
+        },
+        "gift_card_confirmation_by_text_typ": {
+          "few": "Ще получите SMS с вашите подаръчни карти след няколко минути."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "few": "Ще получите имейл с вашите подаръчни карти след няколко минути."
+        },
+        "gift_card_email_title": {
+          "few": "Изпратихме ви подаръчни карти по имейл."
+        },
+        "gift_card_text_title": {
+          "few": "Изпратихме ви pokon-карти чрез SMS"
+        },
+        "gift_card_resent_confirmation": {
+          "few": "Подаръчните карти са изпратени отново."
+        },
+        "gift_card_resend_failure": {
+          "few": "Възникна проблем при повторното изпращане на вашите подаръчни карти. Моля, опитайте отново или се свържете с нас."
+        }
+      },
+      "order_payment_collection": {
+        "changes_summary": {
+          "added": {
+            "few": "Добавено: %{count}"
+          }
+        }
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "few": "Купете %{product_name} и още %{count} артикула"
+        }
+      },
+      "subscriptions": {
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "few": "Първи %{count} индивидуални плащания %{total_price}"
+          }
+        },
+        "recurring_total_intervals": {
+          "day": {
+            "few": "%{count} дни"
+          },
+          "week": {
+            "few": "%{count} седмици."
+          },
+          "month": {
+            "few": "%{count} месеца."
+          },
+          "year": {
+            "few": "%{count} години"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "few": ", тогава следният брой плащания: %{count} по %{total_price} всяко"
+          }
+        }
+      },
+      "contextual_availability": {
+        "title": {
+          "few": "Неналични продукти"
+        },
+        "products_not_available": {
+          "few": "Тези продукти ще бъдат премахнати от количката ви, защото не са налични във вашата държава/регион."
+        },
+        "all_products_in_cart_unavailable": {
+          "few": "Тези продукти не са налични във вашата държава/регион."
+        }
+      },
+      "throttle": {
+        "estimated_wait_time": {
+          "few": "Очаквано време за изчакване: {{count}} мин."
+        }
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "few": "Няма повече артикули (%{count}) които се доставят на вашия адрес."
+          },
+          "message": {
+            "few": "Ще премахнем тези артикули от количката ви, защото не се доставят на вашия адрес."
+          }
+        }
+      },
+      "pickup_point": {
+        "paginator": {
+          "header": {
+            "few": "Показване на %{first} - %{last} от %{count} места"
+          },
+          "selected_pickup_point_label": {
+            "few": "%{pickup_point_index} от %{count} локации"
+          },
+          "selected_page": {
+            "few": "%{first} - %{last} от %{count} места"
+          }
+        },
+        "number_of_pickup_points_near_location": {
+          "few": "Има няколко места за вземане близо до вашето местоположение (%{count})"
+        },
+        "pickup_unavailable_banner_title": {
+          "few": "Няма налични места за вземане на вашите артикули."
+        }
+      },
+      "local_pickup": {
+        "location_information": {
+          "few": "Артикулът е наличен в %{count} магазина близо до %{address}"
+        },
+        "paginator": {
+          "label": {
+            "few": "%{first} - %{last} от %{count} магазина"
+          }
+        },
+        "reveal_more_label": {
+          "few": "Показване на още местоположения (%{count} още)"
+        }
+      },
+      "merchandise_unavailable_in_buyer_location": {
+        "remove_items_action": {
+          "few": "премахнете елементи, които не са налични"
+        }
+      }
+    },
+    "notices": {
+      "order": {
+        "cancel_reason": {
+          "few": "Иначе"
+        }
+      }
+    },
+    "page_titles": {
+      "search_results": {
+        "few": "Търсене: %{count} резултата са намерени за \"%{terms}\""
+      }
+    }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "items": {
+          "few": "Брой артикули: {{count}}"
+        }
+      },
+      "order_status": {
+        "delivered_description_gift_card": {
+          "few": "Изпратихме ви подаръчни карти по имейл."
+        },
+        "gift_card_label": {
+          "few": "Подаръчни карти"
+        },
+        "confirmed_gift_card_additional_description": {
+          "few": "Всяка подаръчна карта се изпраща в отделен имейл."
+        },
+        "delivered_description_gift_card_text": {
+          "few": "Изпратихме ви подаръчните карти чрез SMS."
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "few": "Ще получите всяка подаръчна карта в отделен SMS."
+        },
+        "gift_resend_success": {
+          "few": "Подаръчните карти са изпратени отново."
+        },
+        "gift_resend_failure": {
+          "few": "Възникна проблем при повторното изпращане на вашите подаръчни карти. Моля, опитайте отново или се свържете с нас."
+        },
+        "delivered_description_digital": {
+          "few": "Тези елементи са завършени."
+        },
+        "tracking_number": {
+          "few": "Проследяващи номера"
+        },
+        "gift_card_resend_button": {
+          "few": "Изпратете отново подаръчни карти"
+        }
+      }
+    },
+    "order_details": {
+      "image_gallery": {
+        "load_more_items": {
+          "few": "Зареждане на още елементи: {{count}}"
+        }
+      }
+    },
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "few": "Имате няколко чакащи поръчки ( {{count}} )"
+            }
+          }
+        }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "banner_overdue": {
+              "few": "Закъснявате с плащането си с {{count}} дни."
+            },
+            "banner_due": {
+              "few": "Плащането е дължимо след {{count}} дни"
+            }
+          }
+        }
+      }
+    },
+    "errors": {
+      "banner_title": {
+        "few": "Възникнаха множество грешки ( {{count}} )"
+      }
+    },
+    "ui_components": {
+      "autocompleteOptionsAvailable": {
+        "few": "Налични са следният брой артикули: {{count}}"
+      },
+      "month": {
+        "few": "месеци"
+      },
+      "mapClusterTitle": {
+        "few": "Комплект от {{number}} маркера"
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "few": "преди {{count}} минути"
+        }
+      }
+    }
+  },
+  "product": {
+    "gallery": {
+      "zoom": "Уголемяване",
+      "error": "Снимката не можа да бъде заредена."
+    },
+    "price": {
+      "regular_price": "Редовна цена",
+      "sale_price": "Промоционална цена",
+      "from_price_html": "От {{ price_min }}"
+    },
+    "quantity": {
+      "label": "Сума",
+      "increase_quantity": "Увеличете сумата",
+      "decrease_quantity": "Намалете количеството",
+      "minimum_of": "Поне {{ min }}",
+      "maximum_of": "Максимум {{ max }}",
+      "increment_of": "Увеличете с {{ step }}"
+    },
+    "volume_pricing": {
+      "title": "Цените зависят от обема",
+      "minimum": "{{ quantity }} +",
+      "price_at_each": "{{ price }} /бр."
+    },
+    "rating_count": {
+      "zero": "Няма отзиви",
+      "one": "{{ count }} мнение",
+      "few": "{{ count }} мнения",
+      "many": "{{ count }} мнения",
+      "other": "{{ count }} мнения"
+    },
+    "inventory": {
+      "in_stock": "На склад",
+      "oversell_stock": "Временно недостъпно",
+      "incoming_stock": "Налично от {{ next_incoming_date }}",
+      "low_stock_with_quantity_count": {
+        "one": "Остават само {{ count }} бройки",
+        "few": "Остават само {{ count }} бройки",
+        "many": "Остават само {{ count }} бройки"
+      }
+    },
+    "store_availability": {
+      "view_store_info": "Преглед на информацията за магазина",
+      "check_other_stores": "Проверете наличността в други магазини",
+      "pick_up_available": "Предлага се за вземане от магазина",
+      "pick_up_currently_unavailable": "Вземане от магазина не е възможно",
+      "pick_up_available_at": "Изтегляне до: {{ location_name }}",
+      "pick_up_unavailable_at": "Изтеглянето не е налично в: {{ location_name }}"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Кошница",
+      "empty": "Вашата количка е празна.",
+      "item_count": {
+        "one": "{{ count }} артикул",
+        "few": "{{ count }} артикула",
+        "many": "{{ count }} артикула",
+        "other": "{{ count }} артикул"
+      },
+      "continue_shopping": "Продължете пазаруването",
+      "weight": "Везни",
+      "subtotal": "Стойност на продукта",
+      "total": "Общо",
+      "taxes_and_shipping_policy_at_checkout_html": "Данъците и разходите <a href=\"&lt;span%20class='notranslate'&gt;&lt;span%20class='notranslate'&gt;{&lt;span%20class='notranslate'&gt;{%20link%20}}&lt;/span&gt;&lt;/span&gt;\" class=\"link\">за доставка</a> се изчисляват при плащане.",
+      "taxes_included_but_shipping_at_checkout": "Данъкът е включен в цената, а разходите за доставка се изчисляват при плащане",
+      "taxes_included_and_shipping_policy_html": "Данъкът е включен. <a href=\"&lt;span%20class='notranslate'&gt;&lt;span%20class='notranslate'&gt;{&lt;span%20class='notranslate'&gt;{%20link%20}}&lt;/span&gt;&lt;/span&gt;\" class=\"link\">Цената за доставка</a> се изчислява при плащане.",
+      "taxes_and_shipping_at_checkout": "Данъците и разходите за доставка се изчисляват при плащане.",
+      "add_order_note": "Добавете бележки към поръчката си",
+      "edit_order_note": "Редактиране на бележки към поръчката",
+      "order_note": "Бележки към поръчката",
+      "save_note": "Запазване",
+      "view_cart": "Преглед на количката",
+      "checkout": "Върви по-нататък.",
+      "we_accept": "Приемаме"
+    },
+    "order": {
+      "product": "Продукт",
+      "total": "Заедно",
+      "quantity": "Сума",
+      "change_quantity": "Промяна в количеството",
+      "increase_quantity": "Намалете количеството",
+      "decrease_quantity": "Увеличете сумата",
+      "remove": "Изтриване",
+      "remove_with_title": "Изтриване на {{ title }}"
+    },
+    "free_shipping_bar": {
+      "limit_unreached_html": "Похарчете още {{ remaining_amount }} за да получите безплатна доставка!",
+      "limit_reached_html": "Получавате безплатна доставка."
+    },
+    "shipping_estimator": {
+      "estimate_shipping": "Оценка на разходите за доставка",
+      "country": "Земя",
+      "province": "Провинция",
+      "zip": "Пощенски код",
+      "estimate": "Оценка",
+      "no_results": "За съжаление, не предлагаме доставка до посочения адрес.",
+      "one_result": "За посочения адрес е наличен един метод за доставка:",
+      "multiple_results": "Следните методи за доставка са налични за посочения адрес:",
+      "error": "Възникна една или повече грешки при извличане на метода на доставка:"
+    }
+  },
+  "404": {
+    "general": {
+      "title": "Страницата не е намерена",
+      "continue_shopping": "Продължете пазаруването"
+    }
+  },
+  "search": {
+    "general": {
+      "title": "Търсене",
+      "terms": "Резултати от търсенето за „ {{terms}} “",
+      "search_placeholder": "Търсене...",
+      "products": "Продукти",
+      "suggestions": "Предложения",
+      "collections": "Колекции",
+      "pages": "Страници",
+      "clear": "Изчисти",
+      "view_all": "Вижте всички",
+      "view_all_results": "Вижте всички",
+      "no_results": "Няма резултати."
+    },
+    "results_count": {
+      "zero": "0 резултата за „ {{ terms }} “",
+      "one": "1 резултат за „ {{ terms }} “",
+      "few": "{{ count }} резултата за „ {{ terms }} “",
+      "many": "{{ count }} резултата за „ {{ terms }} “",
+      "other": "{{ count }} резултата за „ {{ terms }} “"
+    }
+  },
+  "gift_card": {
+    "general": {
+      "title": "Ето я вашата подаръчна карта!",
+      "copy": "Копиране",
+      "print": "Печат",
+      "scan": "или сканирайте този QR код",
+      "back_to_store": "Обратно към магазина"
+    },
+    "issued": {
+      "remaining_amount": "Ляво",
+      "out_of_html": "от {{ initial_value }}",
+      "redeem_instructions": "За да използвате картата, използвайте този код:",
+      "code": "Код за подаръчна карта",
+      "expires_on": "Изтича: {{ expires_on }}",
+      "expired": "Вашата подаръчна карта е изтекла или е деактивирана."
+    }
+  }
+}
