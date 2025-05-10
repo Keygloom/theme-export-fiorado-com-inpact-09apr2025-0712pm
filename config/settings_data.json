@@ -36,7 +36,7 @@
     "text_font": "din_next_n4",
     "heading_apparition": "split_fade",
     "color_swatch_style": "round",
-    "color_swatch_config": "Kolor",
+    "color_swatch_config": "Цвят",
     "show_secondary_image": true,
     "product_color_display": "variant",
     "product_image_aspect_ratio": "square_crop",
@@ -63,13 +63,6 @@
         "disabled": false,
         "settings": {}
       },
-      "4571859552318407796": {
-        "type": "shopify://apps/glo-color-swatch-variant-image/blocks/app-embed-block/4394f710-096c-4021-bbde-8ebb26057c11",
-        "disabled": true,
-        "settings": {
-          "customCssGCW": "/* Kleurbolletjes afronden en netjes uitlijnen */\ninput[type=\"radio\"].swatch__input + label.swatch__label {\n  border-radius: 50%;\n  border: 2px solid #ccc;\n  width: 40px;\n  height: 40px;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  margin: 4px;\n  transition: all 0.2s ease;\n  cursor: pointer;\n}\n\n/* Hover effect */\ninput[type=\"radio\"].swatch__input + label.swatch__label:hover {\n  border-color: #000;\n  transform: scale(1.1);\n}\n\n/* Actieve swatch (geselecteerd) */\ninput[type=\"radio\"].swatch__input:checked + label.swatch__label {\n  border-color: #000;\n  box-shadow: 0 0 0 2px #fff inset;\n}"
-        }
-      },
       "11753626725791430220": {
         "type": "shopify://apps/one-click-upsell/blocks/cart-drawer/bfe6e378-b73a-4871-b8d3-7d6ede22678e",
         "disabled": false,
@@ -86,6 +79,13 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
+      },
+      "4571859552318407796": {
+        "type": "shopify://apps/glo-color-swatch-variant-image/blocks/app-embed-block/4394f710-096c-4021-bbde-8ebb26057c11",
+        "disabled": true,
+        "settings": {
+          "customCssGCW": "/* Kleurbolletjes afronden en netjes uitlijnen */\ninput[type=\"radio\"].swatch__input + label.swatch__label {\n  border-radius: 50%;\n  border: 2px solid #ccc;\n  width: 40px;\n  height: 40px;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  margin: 4px;\n  transition: all 0.2s ease;\n  cursor: pointer;\n}\n\n/* Hover effect */\ninput[type=\"radio\"].swatch__input + label.swatch__label:hover {\n  border-color: #000;\n  transform: scale(1.1);\n}\n\n/* Actieve swatch (geselecteerd) */\ninput[type=\"radio\"].swatch__input:checked + label.swatch__label {\n  border-color: #000;\n  box-shadow: 0 0 0 2px #fff inset;\n}"
+        }
       }
     }
   },
