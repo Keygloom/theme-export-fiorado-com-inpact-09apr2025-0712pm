@@ -56,7 +56,7 @@
       "settings": {
         "collection": "",
         "products": [
-          "relaxfit-cipele",
+          "relaxfit-обувки",
           "orthotrail-cipele",
           "nailclear-pro",
           "flexfit-kompresijskim-carapama",
@@ -111,7 +111,7 @@
             "style": "fill",
             "size": "lg",
             "text": "Пазарувайте тук",
-            "url": "shopify://products/relaxfit-cipele",
+            "url": "shopify://products/relaxfit-обувки",
             "background": "",
             "text_color": ""
           }
