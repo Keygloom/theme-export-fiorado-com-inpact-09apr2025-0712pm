@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
-            "mobile_image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
+            "image": "shopify://shop_images/a-photograph-of-the-interior-of-a-luxuri_TVAKy_wRSgua5yw4VoNB8g_7Y1TrCo2SfSVe04ppF1Gnw.jpg",
+            "mobile_image": "shopify://shop_images/a-photograph-of-the-interior-of-a-luxuri_TVAKy_wRSgua5yw4VoNB8g_7Y1TrCo2SfSVe04ppF1Gnw.jpg",
             "content_max_width": 860,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -83,53 +83,48 @@
         "product_card_text_color": ""
       }
     },
-    "image_with_text_overlay_DdMxN9": {
+    "image_with_text_overlay_RwgW9X": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_3Uy8BL": {
-          "type": "subheading",
-          "settings": {
-            "text": "Популярни"
-          }
-        },
-        "heading_em8hcM": {
+        "heading_J9YPgG": {
           "type": "heading",
           "settings": {
-            "text": "Обувки RelaxFit",
+            "text": "Елегантен комфорт на всяка крачка",
             "heading_tag": "h2"
           }
         },
-        "richtext_xFCbcM": {
+        "richtext_LwDJw7": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
-            "content": "<p>Лек, дишащ и с омекотяваща подложка за максимален комфорт. Ергономичната подметка облекчава болката и осигурява опора, а модерният дизайн за лесно обуване добавя небрежна елегантност. Ходете без притеснение – през целия ден!</p>"
+            "content": "<p>Възстановете ноктите си и премахнете гъбичните инфекции с <strong>NailClear Pro!</strong> Това иновативно устройство използва терапия със синя светлина и инфрачервен лазер за борба с инфекцията, облекчаване на болката и заздравяване на ноктите.</p>"
           }
         },
-        "button_TmURaq": {
+        "button_FwC9gW": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "style": "fill",
             "size": "lg",
             "text": "Пазарувайте тук",
-            "url": "shopify://products/relaxfit-обувки",
+            "url": "shopify://products/nailclear-pro",
             "background": "",
             "text_color": ""
           }
         }
       },
       "block_order": [
-        "subheading_3Uy8BL",
-        "heading_em8hcM",
-        "richtext_xFCbcM",
-        "button_TmURaq"
+        "heading_J9YPgG",
+        "richtext_LwDJw7",
+        "button_FwC9gW"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg",
-        "mobile_image": "shopify://shop_images/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg",
+        "image_size": "sm",
+        "image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
+        "mobile_image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -143,11 +138,11 @@
         "item_47Cmti": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/female-doctor-wearing-protective-clothing.jpg",
+            "image": "shopify://shop_images/Comfortabele_stof_9.png",
             "icon": "none",
             "icon_width": 24,
             "title": "",
-            "content": "<p>Всяка стъпка трябва да бъде лека – без болка, без умора. Подходящите обувки поддържат стъпалата по естествен начин, облекчават чувствителните точки и осигуряват баланс. Те предлагат не само комфорт, но и свобода: да ходите по-дълго, да се наслаждавате повече и да се движите без притеснения.</p><p><strong>Д-р Елена Петрова, специалист по хирургична подиатрия</strong></p>"
+            "content": "<p>Тези обувки ми дават комфорт и свобода – без болка, без умора. Мога отново да се движа без притеснения.<br/><br/><strong>Елена Петрова</strong><br/><br/></p>"
           }
         },
         "item_EUeMwL": {
@@ -157,7 +152,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "",
-            "content": "<p>Ортопедичните обувки Fiorado осигуряват изключителен комфорт и опора. Благодарение на ергономичната форма и подметката с омекотяващ ефект, те намаляват дискомфорта в стъпалата и подобряват стойката при ходене. Това е отличен избор за всеки, който търси качествени ортопедични обувки!</p><p><strong>Д-р Ивана Новак, ортомолекулярен консултант</strong></p>"
+            "content": "<p>Fiorado ортопедични обувки – комфорт, опора и по-добра стойка при ходене.“<br/><br/><strong>Ивана Новак, ортомолекулярен консултант</strong></p>"
           }
         },
         "item_mCNeaD": {
@@ -167,7 +162,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "",
-            "content": "<p>Добрите обувки не са просто удобни – те подобряват стойката, намаляват натоварването върху ставите и подпомагат здравословното кръвообращение. Те не само се грижат за здравето на стъпалата, но и допринасят за цялостното благосъстояние.</p><p><strong>Д-р Марко Хорват, подиатър</strong></p>"
+            "content": "<p>Добрите обувки подкрепят стойката, ставите и кръвообращението.<br/><br/><strong>Марко Хорват, подиатър</strong></p>"
           }
         }
       },
@@ -207,46 +202,53 @@
         "button_text_color": ""
       }
     },
-    "image_with_text_overlay_RwgW9X": {
+    "image_with_text_overlay_DdMxN9": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_J9YPgG": {
+        "subheading_3Uy8BL": {
+          "type": "subheading",
+          "settings": {
+            "text": "Популярни"
+          }
+        },
+        "heading_em8hcM": {
           "type": "heading",
           "settings": {
-            "text": "NailClear Pro",
+            "text": "Обувки RelaxFit",
             "heading_tag": "h2"
           }
         },
-        "richtext_LwDJw7": {
+        "richtext_xFCbcM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Възстановете ноктите си и премахнете гъбичните инфекции с <strong>NailClear Pro!</strong> Това иновативно устройство използва терапия със синя светлина и инфрачервен лазер за борба с инфекцията, облекчаване на болката и заздравяване на ноктите.</p>"
+            "content": "<p><em><strong>Комфорт и стил през целия ден – леки, дишащи и омекотяващи.</strong></em></p>"
           }
         },
-        "button_FwC9gW": {
+        "button_TmURaq": {
           "type": "button",
           "settings": {
             "style": "fill",
             "size": "lg",
             "text": "Пазарувайте тук",
-            "url": "shopify://products/nailclear-pro",
+            "url": "shopify://products/relaxfit-обувки",
             "background": "",
             "text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_J9YPgG",
-        "richtext_LwDJw7",
-        "button_FwC9gW"
+        "subheading_3Uy8BL",
+        "heading_em8hcM",
+        "richtext_xFCbcM",
+        "button_TmURaq"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/0801-5-1_c0feae37-938f-4b62-a2cb-df42a20a332d.png",
-        "mobile_image": "shopify://shop_images/0801-5-1_c0feae37-938f-4b62-a2cb-df42a20a332d.png",
+        "image": "shopify://shop_images/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg",
+        "mobile_image": "shopify://shop_images/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -366,10 +368,10 @@
   "order": [
     "slideshow",
     "featured_collection_LtGnYE",
-    "image_with_text_overlay_DdMxN9",
+    "image_with_text_overlay_RwgW9X",
     "images_with_text_scrolling_r9eGzQ",
     "impact-text",
-    "image_with_text_overlay_RwgW9X",
+    "image_with_text_overlay_DdMxN9",
     "trust_pilot_4R3za7",
     "faq"
   ]
