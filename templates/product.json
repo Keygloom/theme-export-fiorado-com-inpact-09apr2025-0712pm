@@ -112,6 +112,7 @@
         },
         "liquid_ikXqnw": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div id='ss-product-reviews-2'></div>"
           }
@@ -402,10 +403,10 @@
   },
   "order": [
     "main",
+    "1747597420c5d71344",
     "image_with_text_overlay_HX8gPR",
     "related-products",
     "review_MKQVq3",
-    "1745666733bf555c52",
-    "1747597420c5d71344"
+    "1745666733bf555c52"
   ]
 }
