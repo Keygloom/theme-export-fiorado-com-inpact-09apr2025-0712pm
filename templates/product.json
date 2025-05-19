@@ -96,6 +96,7 @@
         },
         "liquid_CmbhqW": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<p style=\"font-size: 0.6em; color: #555;\">\nЗабележка: всички цени са без ДДС. За международни пратки може да се прилагат допълнителни митнически такси.\n.\n</p>\n</p>"
           }
@@ -153,6 +154,26 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "1747597420c5d71344": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_zh4NNU": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_zh4NNU"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image_with_text_overlay_HX8gPR": {
@@ -371,26 +392,6 @@
     },
     "1745666733bf555c52": {
       "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1747597420c5d71344": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_zh4NNU": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_zh4NNU"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
