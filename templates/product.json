@@ -113,7 +113,6 @@
         },
         "liquid_ikXqnw": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<div id='ss-product-reviews-2'></div>"
           }
@@ -154,87 +153,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "1747597420c5d71344": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_zh4NNU": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_zh4NNU"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_HX8gPR": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_L8aTqn": {
-          "type": "heading",
-          "settings": {
-            "text": "Открийте майсторството на Fiorado",
-            "heading_tag": "h2"
-          }
-        },
-        "richtext_xBFBPC": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Fiorado </strong>означава елегантен комфорт. Вярваме, че движението без болка е ключът към щастливия и активен живот. Ето защо ние не само проектираме ортопедични обувки, но предлагаме и други ортопедични помощни средства, които осигуряват подкрепа и облекчение при различни физически заболявания.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_L8aTqn",
-        "richtext_xBFBPC"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/a-photo-of-a-woman-s-orthopedic-shoe-wit_DvyqiEPaQeakoVBadc-Qmw_dtr2GelmRbudz6Y_xBQUew.jpg",
-        "mobile_image": "shopify://shop_images/a-photo-of-a-woman-s-orthopedic-shoe-wit_DvyqiEPaQeakoVBadc-Qmw_dtr2GelmRbudz6Y_xBQUew.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [
-          "стелки-aircushion",
-          "flexfit-kompresijskim-carapama",
-          "nailclear-pro"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Перфектни комбинации",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "review_MKQVq3": {
@@ -390,6 +308,88 @@
         "lazy": true
       }
     },
+    "1747597420c5d71344": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_zh4NNU": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_zh4NNU"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_HX8gPR": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_L8aTqn": {
+          "type": "heading",
+          "settings": {
+            "text": "Открийте майсторството на Fiorado",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_xBFBPC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Fiorado </strong>означава елегантен комфорт. Вярваме, че движението без болка е ключът към щастливия и активен живот. Ето защо ние не само проектираме ортопедични обувки, но предлагаме и други ортопедични помощни средства, които осигуряват подкрепа и облекчение при различни физически заболявания.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_L8aTqn",
+        "richtext_xBFBPC"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/a-photo-of-a-woman-s-orthopedic-shoe-wit_DvyqiEPaQeakoVBadc-Qmw_dtr2GelmRbudz6Y_xBQUew.jpg",
+        "mobile_image": "shopify://shop_images/a-photo-of-a-woman-s-orthopedic-shoe-wit_DvyqiEPaQeakoVBadc-Qmw_dtr2GelmRbudz6Y_xBQUew.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "стелки-aircushion",
+          "flexfit-kompresijskim-carapama",
+          "nailclear-pro"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Перфектни комбинации",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "1745666733bf555c52": {
       "type": "apps",
       "settings": {
@@ -404,10 +404,10 @@
   },
   "order": [
     "main",
+    "review_MKQVq3",
     "1747597420c5d71344",
     "image_with_text_overlay_HX8gPR",
     "related-products",
-    "review_MKQVq3",
     "1745666733bf555c52"
   ]
 }
