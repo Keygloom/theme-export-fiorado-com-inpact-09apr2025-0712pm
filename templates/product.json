@@ -180,6 +180,17 @@
             "time": "преди 1 ден"
           }
         },
+        "item_cPFwWQ": {
+          "type": "item",
+          "settings": {
+            "stars_count": 5,
+            "verified_text": "Проверен",
+            "title": "Прекрасно качество и бърза доставка",
+            "text": "<p>Много съм доволна от роклята – отговаря на описанието и пристигна изключително бързо. Ще поръчам отново!</p>",
+            "author": "Мария Николова",
+            "time": "преди 2 дни"
+          }
+        },
         "item_LAULkr": {
           "type": "item",
           "settings": {
@@ -206,6 +217,7 @@
       "block_order": [
         "item_GjM7tf",
         "item_CM4aym",
+        "item_cPFwWQ",
         "item_LAULkr",
         "item_XyXkr4"
       ],
@@ -310,16 +322,6 @@
     },
     "1747597420c5d71344": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_zh4NNU": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_zh4NNU"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
