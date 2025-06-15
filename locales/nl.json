@@ -100,7 +100,8 @@
       "available_colors_count": {
         "one": "{{ count }} kleur beschikbaar",
         "other": "{{ count }} kleuren beschikbaar",
-        "few": "{{ count }} kleuren beschikbaar"
+        "few": "{{ count }} kleuren beschikbaar",
+        "many": "{{ count }} kleuren beschikbaar"
       }
     },
     "gallery": {
@@ -163,7 +164,9 @@
     "products_count": {
       "zero": "0 producten",
       "one": "1 product",
-      "other": "{{ count }} producten"
+      "other": "{{ count }} producten",
+      "few": "{{ count }} producten",
+      "many": "{{ count }} producten"
     },
     "faceting": {
       "filters": "Filters",
@@ -206,7 +209,9 @@
       "count": {
         "zero": "{{ count }} reacties",
         "one": "{{ count }} reactie",
-        "other": "{{ count }} reacties"
+        "other": "{{ count }} reacties",
+        "few": "{{ count }} reacties",
+        "many": "{{ count }} reacties"
       }
     }
   },
@@ -323,7 +328,9 @@
       "empty": "Je winkelwagen is leeg",
       "item_count": {
         "one": "{{ count }} artikel",
-        "other": "{{ count }} artikelen"
+        "other": "{{ count }} artikelen",
+        "few": "{{ count }} artikelen",
+        "many": "{{ count }} artikelen"
       },
       "continue_shopping": "Doorgaan met winkelen",
       "weight": "Gewicht",
@@ -391,7 +398,9 @@
     "results_count": {
       "zero": "0 resultaten voor \"{{ terms }}\"",
       "one": "1 resultaat voor \"{{ terms }}\"",
-      "other": "{{ count }} resultaten voor \"{{ terms }}\""
+      "other": "{{ count }} resultaten voor \"{{ terms }}\"",
+      "few": "{{ count }} resultaten voor \" {{ terms }} \"",
+      "many": "{{ count }} resultaten voor \" {{ terms }} \""
     }
   },
   "gift_card": {
@@ -441,7 +450,9 @@
       "review_count": {
         "zero": "Dit product heeft nog geen recensies.",
         "one": "Het heeft {{ count }} recensie gekregen.",
-        "other": "Het heeft {{ count }} recensies gekregen."
+        "other": "Het heeft {{ count }} recensies gekregen.",
+        "few": "Er zijn {{ count }} beoordelingen.",
+        "many": "Er zijn {{ count }} meningen."
       }
     }
   },
