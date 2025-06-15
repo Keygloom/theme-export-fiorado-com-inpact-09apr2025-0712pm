@@ -395,7 +395,7 @@
       }
     },
     "links": {
-      "powered_by_shopify": "BG"
+      "powered_by_shopify": "BE/NL"
     }
   },
   "customer_accounts": {
@@ -766,7 +766,7 @@
     },
     "general": {
       "follow_us": "Последвайте ни",
-      "powered_by": "BG",
+      "powered_by": "BE/NL",
       "store_owner": "Вие собственик на магазин ли сте?",
       "login": "Вход"
     }
