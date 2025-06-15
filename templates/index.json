@@ -15,15 +15,15 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a-photograph-of-the-interior-of-a-luxuri_TVAKy_wRSgua5yw4VoNB8g_7Y1TrCo2SfSVe04ppF1Gnw.jpg",
-            "mobile_image": "shopify://shop_images/a-photograph-of-the-interior-of-a-luxuri_TVAKy_wRSgua5yw4VoNB8g_7Y1TrCo2SfSVe04ppF1Gnw.jpg",
+            "image": "shopify://shop_images/a-photograph-of-a-meticulously-crafted-m_G41oazL5Q1-H-jjF-eUt5g_pqjyk3XfRy-uUVNNZ6T5kQ.jpg",
+            "mobile_image": "shopify://shop_images/a-photograph-of-a-meticulously-crafted-m_G41oazL5Q1-H-jjF-eUt5g_pqjyk3XfRy-uUVNNZ6T5kQ.jpg",
             "content_max_width": 860,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Елегантна опора за всяка ваша стъпка!",
+            "title": "Jouw droomgarage in miniatuur begint hier",
             "heading_tag": "h2",
-            "button_text": "Пазарувайте тук",
+            "button_text": "Shop nu",
             "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -70,7 +70,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Нашите бестселъри",
+        "title": "Onze Bestsellers",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -89,7 +89,7 @@
         "heading_J9YPgG": {
           "type": "heading",
           "settings": {
-            "text": "Елегантен комфорт на всяка крачка",
+            "text": "Ambacht en detail in elke schaal",
             "heading_tag": "h2"
           }
         },
@@ -123,8 +123,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
-        "mobile_image": "shopify://shop_images/a-visually-appealing-front-facade-of-a-f_l1bp6yraSZS6-j1295-2Xg_iEBn3sj_Rnu3E6JCTzf6zA_2.jpg",
+        "image": "shopify://shop_images/a-photograph-of-a-curated-collection-of-_Zyyhl8_wSjulSbPHWlJ31g_V_uysVDBRJ-n3yDXuijy_g.jpg",
+        "mobile_image": "shopify://shop_images/a-photograph-of-a-curated-collection-of-_Zyyhl8_wSjulSbPHWlJ31g_V_uysVDBRJ-n3yDXuijy_g.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -171,6 +171,7 @@
         "item_EUeMwL",
         "item_mCNeaD"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -207,6 +208,7 @@
       "blocks": {
         "subheading_3Uy8BL": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Популярни"
           }
@@ -214,14 +216,14 @@
         "heading_em8hcM": {
           "type": "heading",
           "settings": {
-            "text": "Обувки RelaxFit",
+            "text": "Unieke diorama’s met karakter",
             "heading_tag": "h2"
           }
         },
         "richtext_xFCbcM": {
           "type": "richtext",
           "settings": {
-            "content": "<p><em><strong>Комфорт и стил през целия ден – леки, дишащи и омекотяващи.</strong></em></p>"
+            "content": "<p>Breng jouw verzameling tot leven met realistische diorama’s en premium displays.</p>"
           }
         },
         "button_TmURaq": {
@@ -229,8 +231,8 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Пазарувайте тук",
-            "url": "shopify://products/relaxfit-обувки",
+            "text": "Ontdek de diorama’s",
+            "url": "shopify://collections/dioramas",
             "background": "",
             "text_color": ""
           }
@@ -247,8 +249,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg",
-        "mobile_image": "shopify://shop_images/f18e6999-1cd2-4387-bc3d-175689920fe8_8d4ca297-286a-4ee8-bd4b-91a82429b509.jpg",
+        "image": "shopify://shop_images/O1CN01zRYrL520vI534YWKY__2214106426911-0-cib_2cd2c558-d18a-484b-9d87-b83d6e969b7d.jpg",
+        "mobile_image": "shopify://shop_images/O1CN01zRYrL520vI534YWKY__2214106426911-0-cib_2cd2c558-d18a-484b-9d87-b83d6e969b7d.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -263,30 +265,30 @@
           "type": "text",
           "settings": {
             "rating_stars": "5",
-            "review_title": "Стил и поддръжка над очакванията!",
-            "review_des": "<p>Бях скептичен към ортопедичните обувки, но тези надминаха очакванията ми – удобни и стилни.</p>",
-            "customer_name": "Милена Георгиева",
-            "review_date": "преди 11 часа"
+            "review_title": "Prachtig detailwerk",
+            "review_des": "<p>Net echt! Mijn Hot Wheels komen perfect tot hun recht.</p>",
+            "customer_name": "Tom de Boer",
+            "review_date": "11 uur geleden"
           }
         },
         "text_Dtxxff": {
           "type": "text",
           "settings": {
             "rating_stars": "5",
-            "review_title": "Определено бих купила отново!",
-            "review_des": "<p>Отлично качество и надеждна работа – бих купила отново!</p>",
-            "customer_name": "Радостина Стоянова",
-            "review_date": "преди 1 ден"
+            "review_title": "Topcadeau!",
+            "review_des": "<p>Mijn vriend iser gek van. Mooi afgewerkt en goed geleverd</p>",
+            "customer_name": "Sanne Willems",
+            "review_date": "1 dag geleden"
           }
         },
         "text_GQjKgk": {
           "type": "text",
           "settings": {
             "rating_stars": "4.5",
-            "review_title": "Издръжливи и лесни за използване",
-            "review_des": "<p>Качествени, лесни за ползване и напълно отговарят на очакванията ми.</p>",
-            "customer_name": "Васил Тодоров",
-            "review_date": "Току-що публикувано"
+            "review_title": "Heel realistisch",
+            "review_des": "<p>Ziet eruit als een echte straat. Super bij m’n collectie!</p>",
+            "customer_name": "Bram Peeters",
+            "review_date": "Zojuist geplaatst"
           }
         }
       },
@@ -298,46 +300,38 @@
       "settings": {
         "enb": true,
         "review_heading": "",
-        "verified_heading": "Проверен",
+        "verified_heading": "Geverifieerd",
         "main_rating_stars": "4.5",
-        "title": "Fiorado",
+        "title": "Adomobilia",
         "text": ""
       }
     },
     "faq": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Какви размери са налични?",
-            "content": "<p>Всички наши продукти се доставят с включена таблица с размери, така че можете да сте сигурни, че сте избрали правилния размер.</p>"
-          }
-        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Мога ли да върна поръчката си?",
-            "content": "<p>Да, връщането е възможно до 30 дни след получаване на пратката. Вижте нашата политика за връщане за повече информация.</p>"
+            "title": "Kan ik mijn bestelling retourneren?",
+            "content": "<p>Ja, retourneren is mogelijk binnen 30 dagen na ontvangst van de zending. Zie ons retourbeleid voor meer informatie.</p>"
           }
         },
         "item_CeWA7t": {
           "type": "item",
           "settings": {
-            "title": "Колко време ще отнеме, докато поръчката ми бъде доставена?",
-            "content": "<p>Всяка поръчка е внимателно проследена и опакована. Обработката отнема средно 1-2 работни дни. След като поръчката ви бъде изпратена, ще получите номер за проследяване по имейл. Очакваното време за доставка в Европа е 6-12 дни.</p>"
+            "title": "Hoe lang duurt het voordat mijn bestelling wordt bezorgd?",
+            "content": "<p>Elke bestelling wordt zorgvuldig getraceerd en verpakt. De verwerking neemt gemiddeld 1-2 werkdagen in beslag. Zodra je bestelling is verzonden, ontvang je een trackingnummer via e-mail. Geschatte levertijd in Europa is 6-12 dagen.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Други въпроси?",
-            "content": "<p>Винаги можете да се свържете с нас на нашата страница за контакти. Ще се радваме да ви помогнем там.</p>"
+            "title": "Andere vragen?",
+            "content": "<p>Je kunt altijd contact met ons opnemen via onze contactpagina. Daar helpen we je graag verder.</p>"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
         "166442457738b23caf-1",
         "item_CeWA7t",
         "166442457738b23caf-2"
@@ -345,10 +339,10 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Често задавани въпроси",
-        "content": "<p>Тук ще намерите отговори на най-често задаваните въпроси. Ако вашият въпрос не е посочен, свържете се с нас. С удоволствие ще помогнем!</p>",
+        "title": "Veelgestelde vragen",
+        "content": "<p>Hier vind je antwoorden op de meest gestelde vragen. Als je vraag er niet bij staat, neem dan contact met ons op. We helpen je graag!</p>",
         "team_avatar_width": 160,
-        "support_hours": "Нашият екип за обслужване на клиенти е на разположение всеки ден от 8 до 19 часа.",
+        "support_hours": "Onze klantenservice is elke dag bereikbaar van 8.00 tot 19.00 uur.",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
