@@ -74,14 +74,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": "Juridische links"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -89,11 +81,19 @@
             "content": "<p>Bij Adomobilia draait alles om passie voor modelauto’s en diorama’s. We brengen miniatuurwerelden tot leven — met oog voor detail, kwaliteit en stijl.</p>",
             "enable_follow_on_shop": false
           }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": "Juridische links"
+          }
         }
       },
       "block_order": [
-        "links",
-        "text"
+        "text",
+        "links"
       ],
       "settings": {
         "show_social_media": false,
