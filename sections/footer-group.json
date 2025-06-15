@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Безплатна доставка",
-            "content": "<p>Поръчайте днес и се насладете на безплатна доставка без минимална сума за поръчка. Бързо, просто и икономично</p>"
+            "title": "Gratis verzending",
+            "content": "<p>Bestel vandaag nog en profiteer van gratis verzending zonder minimumorderbedrag. Snel, eenvoudig en voordelig</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "въпроси?",
-            "content": "<p>Имате въпрос? Отидете в раздела \"Контакти\" и се свържете с нас. Винаги сме на ваше разположение!</p>"
+            "title": "Vragen?",
+            "content": "<p>Heb je een vraag? Ga naar het tabblad “Contact” en neem contact met ons op. We staan altijd voor je klaar!</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Плащайте без притеснения",
-            "content": "<p>Всички плащания се обработват напълно сигурно и криптирани. Пазарувайте без притеснения!</p>"
+            "title": "Betalen zonder zorgen",
+            "content": "<p>Alle betalingen worden volledig veilig en gecodeerd verwerkt. Shop zonder zorgen!</p>"
           }
         }
       },
@@ -79,14 +79,14 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": "Правни връзки"
+            "menu_title": "Juridische links"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "Относно  Fiorado",
-            "content": "<p>Във Fiorado вярваме, че ортопедичната мода може да бъде стилна. Нашите обувки и аксесоари постигат перфектния баланс между комфорт и елегантност, така че да можете да преминете през деня без усилие и уверено.</p>",
+            "title": "Over Adomobilia",
+            "content": "<p>Bij Adomobilia draait alles om passie voor modelauto’s en diorama’s. We brengen miniatuurwerelden tot leven — met oog voor detail, kwaliteit en stijl.</p>",
             "enable_follow_on_shop": false
           }
         }
