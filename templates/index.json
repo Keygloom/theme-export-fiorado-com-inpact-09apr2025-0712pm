@@ -297,7 +297,9 @@
         "text_Dtxxff",
         "text_GQjKgk"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "/* Alleen tekst in de reviewkaarten zwart maken */.trustpilot .custom-review,.trustpilot .custom-review * {color: black !important;}"
+      ],
       "settings": {
         "enb": true,
         "review_heading": "",
