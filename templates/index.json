@@ -297,6 +297,7 @@
         "text_Dtxxff",
         "text_GQjKgk"
       ],
+      "custom_css": [],
       "settings": {
         "enb": true,
         "review_heading": "",
@@ -347,7 +348,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
