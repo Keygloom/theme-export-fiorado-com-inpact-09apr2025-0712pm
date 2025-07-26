@@ -164,7 +164,7 @@
     "products_count": {
       "zero": "0 producten",
       "one": "1 product",
-      "other": "{{ count }} producten",
+      "other": " ",
       "few": "{{ count }} producten",
       "many": "{{ count }} producten"
     },
@@ -330,7 +330,8 @@
         "one": "{{ count }} artikel",
         "other": "{{ count }} artikelen",
         "few": "{{ count }} artikelen",
-        "many": "{{ count }} artikelen"
+        "many": "{{ count }} artikelen",
+        "zero": ""
       },
       "continue_shopping": "Doorgaan met winkelen",
       "weight": "Gewicht",
