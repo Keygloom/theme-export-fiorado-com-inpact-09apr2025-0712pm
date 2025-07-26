@@ -112,7 +112,7 @@
     "price": {
       "regular_price": "Normale prijs",
       "sale_price": "Aanbiedingsprijs",
-      "from_price_html": "Van {{ price_min }}"
+      "from_price_html": "Vanaf {{ price_min }}"
     },
     "quantity": {
       "label": "Aantal",
