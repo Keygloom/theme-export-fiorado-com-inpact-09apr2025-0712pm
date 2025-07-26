@@ -842,6 +842,9 @@
         "few": "Zoeken: %{count} resultaten gevonden voor \"%{terms}\"",
         "many": "Zoeken: %{count} resultaten gevonden voor \"%{terms}\""
       }
+    },
+    "links": {
+      "powered_by_shopify": " "
     }
   },
   "customer_accounts": {
