@@ -32,8 +32,8 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#f2f2f2",
+        "button_text_color": "#1a1a1a"
       }
     }
   },
