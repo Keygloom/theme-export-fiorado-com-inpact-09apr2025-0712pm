@@ -155,6 +155,52 @@
         "input_text_color": ""
       }
     },
+    "1747597420c5d71344": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_HX8gPR": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_L8aTqn": {
+          "type": "heading",
+          "settings": {
+            "text": "Explore Adomobilia’s fine craftsmanship",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_xBFBPC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>High-quality model car displays and dioramas by <strong>Adomobilia</strong>, perfect for a stylish and lifelike presentation of your collection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_L8aTqn",
+        "richtext_xBFBPC"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/O1CN01aQYD9K1j0BBZxbdIx__2211380014485-0-cib.jpg",
+        "mobile_image": "shopify://shop_images/O1CN01aQYD9K1j0BBZxbdIx__2211380014485-0-cib.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "review_MKQVq3": {
       "type": "review",
       "blocks": {
@@ -233,8 +279,8 @@
         "item_padding_vertical": 20,
         "item_padding_vertical_mobile": 20,
         "item_radius": 4,
-        "item_border_thickness": 0,
-        "item_shadow": true,
+        "item_border_thickness": 5,
+        "item_shadow": false,
         "stars_size": 14,
         "stars_size_mobile": 14,
         "use_verified_tag": true,
@@ -294,7 +340,7 @@
         "text_color": "#191919",
         "author_color": "#636464",
         "time_color": "#636464",
-        "item_bg_color": "#f8f9fa",
+        "item_bg_color": "#ffffff",
         "item_border_color": "#e2e7ec",
         "stars_color": "#ffffff",
         "stars_bg_color": "#00b67a",
@@ -318,52 +364,6 @@
         "padding_horizontal_mobile": 0,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "1747597420c5d71344": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_HX8gPR": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_L8aTqn": {
-          "type": "heading",
-          "settings": {
-            "text": "Explore Adomobilia’s fine craftsmanship",
-            "heading_tag": "h2"
-          }
-        },
-        "richtext_xBFBPC": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>High-quality model car displays and dioramas by <strong>Adomobilia</strong>, perfect for a stylish and lifelike presentation of your collection.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_L8aTqn",
-        "richtext_xBFBPC"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/O1CN01aQYD9K1j0BBZxbdIx__2211380014485-0-cib.jpg",
-        "mobile_image": "shopify://shop_images/O1CN01aQYD9K1j0BBZxbdIx__2211380014485-0-cib.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "related-products": {
@@ -402,9 +402,9 @@
   },
   "order": [
     "main",
-    "review_MKQVq3",
     "1747597420c5d71344",
     "image_with_text_overlay_HX8gPR",
+    "review_MKQVq3",
     "related-products",
     "1745666733bf555c52"
   ]
