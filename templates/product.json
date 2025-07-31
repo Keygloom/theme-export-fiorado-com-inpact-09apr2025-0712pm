@@ -208,55 +208,55 @@
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Geverifieerd",
-            "title": "Topkwaliteit!",
-            "text": "<p>De details zijn verbluffend. Mijn modellen komen eindelijk echt tot leven.</p>",
+            "verified_text": "Verified",
+            "title": "Top quality",
+            "text": "<p>The details are stunning. My models are finally truly coming to life.</p>",
             "author": "Lars Vermeulen",
-            "time": "15 uur geleden"
+            "time": "15 hours ago"
           }
         },
         "item_CM4aym": {
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Geverifieerd",
-            "title": "Perfect cadeau",
-            "text": "<p>Ik gaf het als cadeau en hij was er superblij mee. Veel mooier dan een saaie vitrine.</p>",
-            "author": "Sophie Janssens",
-            "time": "1 dag geleden"
+            "verified_text": "Verified",
+            "title": "Perfect gift",
+            "text": "<p>I gave it as a gift, and he was super happy with it. Much nicer than a boring display.</p>",
+            "author": "Sophie Sousa",
+            "time": "1 day ago"
           }
         },
         "item_cPFwWQ": {
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Geverifieerd",
-            "title": "Zeer realistisch",
-            "text": "<p>De diorama's zijn netjes afgewerkt en voegen echt sfeer toe aan mijn displaykast.</p>",
+            "verified_text": "Verified",
+            "title": "Very realistic",
+            "text": "<p>The dioramas are good finished and really add atmosphere to my display!</p>",
             "author": "Mehmet Kaya",
-            "time": "2 dagen geleden"
+            "time": "2 days ago"
           }
         },
         "item_LAULkr": {
           "type": "item",
           "settings": {
             "stars_count": 4.5,
-            "verified_text": "Geverifieerd",
-            "title": "Maakt het compleet",
-            "text": "<p>Zonder deze garageachtergrond mist er gewoon iets. Nu klopt alles.</p>",
-            "author": "Tom de Wilde",
-            "time": "2 uur geleden"
+            "verified_text": "Verified",
+            "title": "Makes it complete",
+            "text": "<p>Without this garage backdrop, something just feels missing. Now everything is perfect.</p>",
+            "author": "Tom Buzel",
+            "time": "2 hours ago"
           }
         },
         "item_XyXkr4": {
           "type": "item",
           "settings": {
             "stars_count": 5,
-            "verified_text": "Geverifieerd",
-            "title": "Goede levering, mooi product",
-            "text": "<p>De print was scherp, goed verpakt en direct klaar voor gebruik.</p>",
+            "verified_text": "Verified",
+            "title": "Good delivery, beautiful product",
+            "text": "<p>The print was sharp, well-packaged, and ready to use right away.</p>",
             "author": "Kim Vandenberghe",
-            "time": "Zojuist geplaatst"
+            "time": "Recently posted"
           }
         }
       },
@@ -267,8 +267,10 @@
         "item_LAULkr",
         "item_XyXkr4"
       ],
+      "disabled": true,
+      "custom_css": [],
       "settings": {
-        "reviews_position": "below_buy",
+        "reviews_position": "below_description",
         "use_metafield": false,
         "slider_view": 2,
         "slider_view_mobile": 1.3,
@@ -326,7 +328,7 @@
         "arrow_hover_effect": "color",
         "arrow_show_desktop": true,
         "arrow_show_mobile": false,
-        "bottom_text": "<p>Gewaardeerd met <strong>4.7</strong>/5 op basis van 1154 beoordelingen. Onze 5-sterrenbeoordelingen weergegeven.</p>",
+        "bottom_text": "<p>Rated 4.7/5 based on 1,154 reviews. Displaying our 5-star ratings.</p>",
         "bottom_text_custom": false,
         "bottom_text_font": "josefin_sans_n4",
         "bottom_text_size": 13,
@@ -353,9 +355,9 @@
         "arrow_border_color": "#c7c7c7",
         "arrow_border_hover_color": "#c7c7c7",
         "bottom_text_color": "#000000",
-        "background_color": "#ffffff",
+        "background_color": "#000000",
         "background_gradient": "",
-        "border_color": "#000000",
+        "border_color": "#ffffff",
         "margin_top": 60,
         "margin_bottom": 0,
         "padding_top": 0,
