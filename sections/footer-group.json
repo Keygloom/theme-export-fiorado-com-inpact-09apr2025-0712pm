@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Gratis verzending",
-            "content": "<p>Bestel vandaag nog en profiteer van gratis verzending zonder minimumorderbedrag. Snel, eenvoudig en voordelig</p>"
+            "title": "Free delivery",
+            "content": "<p>Place your order today and benefit from free shipping—no minimum required. Quick, simple, and cost-effective.</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Vragen?",
-            "content": "<p>Heb je een vraag? Ga naar het tabblad “Contact” en neem contact met ons op. We staan altijd voor je klaar!</p>"
+            "title": "Questions?",
+            "content": "<p>Need help? Visit the 'Contact' tab and send us a message. We're here for you anytime!</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Betalen zonder zorgen",
-            "content": "<p>Alle betalingen worden volledig veilig en gecodeerd verwerkt. Shop zonder zorgen!</p>"
+            "title": "Secure payment",
+            "content": "<p>Your payment is 100% secure and encrypted. Enjoy safe shopping!</p>"
           }
         }
       },
@@ -77,8 +77,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Over Adomobilia",
-            "content": "<p>Bij Adomobilia draait alles om passie voor modelauto’s en diorama’s. We brengen miniatuurwerelden tot leven — met oog voor detail, kwaliteit en stijl.</p>",
+            "title": "About Adomobilia",
+            "content": "<p>Adomobilia is driven by a passion for model cars and dioramas. We bring miniature worlds to life with a sharp eye for detail, premium quality, and timeless style.</p>",
             "enable_follow_on_shop": false
           }
         },
@@ -87,7 +87,7 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": "Juridische links"
+            "menu_title": "Legal links"
           }
         }
       },

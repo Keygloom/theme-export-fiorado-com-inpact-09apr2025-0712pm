@@ -21,9 +21,9 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Jouw droomgarage in miniatuur begint hier",
+            "title": "Your miniature dream garage starts right here",
             "heading_tag": "h2",
-            "button_text": "Shop nu",
+            "button_text": "Shop now",
             "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -69,7 +69,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Onze Bestsellers",
+        "title": "Our Bestsellers",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -88,7 +88,7 @@
         "heading_J9YPgG": {
           "type": "heading",
           "settings": {
-            "text": "Ambacht en detail in elke schaal",
+            "text": "Handcrafted detail at every scale",
             "heading_tag": "h2"
           }
         },
@@ -215,14 +215,14 @@
         "heading_em8hcM": {
           "type": "heading",
           "settings": {
-            "text": "Unieke diorama’s met karakter",
+            "text": "Dioramas that tell a story",
             "heading_tag": "h2"
           }
         },
         "richtext_xFCbcM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Breng jouw verzameling tot leven met realistische diorama’s en premium displays.</p>"
+            "content": "<p>Make your collection stand out with realistic scenes and high-end displays</p>"
           }
         },
         "button_TmURaq": {
@@ -230,7 +230,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Ontdek de diorama’s",
+            "text": "Explore our dioramas",
             "url": "shopify://collections/dioramas",
             "background": "",
             "text_color": ""
@@ -264,30 +264,30 @@
           "type": "text",
           "settings": {
             "rating_stars": "5",
-            "review_title": "Prachtig detailwerk",
-            "review_des": "<p>Net echt! Mijn Hot Wheels komen perfect tot hun recht.</p>",
-            "customer_name": "Tom de Boer",
-            "review_date": "11 uur geleden"
+            "review_title": "Nice detail work",
+            "review_des": "<p>Looks so real! My Hot Wheels have never looked better</p>",
+            "customer_name": "James Cook",
+            "review_date": "11 hours ago"
           }
         },
         "text_Dtxxff": {
           "type": "text",
           "settings": {
             "rating_stars": "5",
-            "review_title": "Topcadeau!",
-            "review_des": "<p>Mijn vriend iser gek van. Mooi afgewerkt en goed geleverd</p>",
-            "customer_name": "Sanne Willems",
-            "review_date": "1 dag geleden"
+            "review_title": "Perfect gift!",
+            "review_des": "<p>My boyfriend really loves it. Great quality and prompt delivery.</p>",
+            "customer_name": "Mia Cooper",
+            "review_date": "1 day ago"
           }
         },
         "text_GQjKgk": {
           "type": "text",
           "settings": {
             "rating_stars": "4.5",
-            "review_title": "Heel realistisch",
-            "review_des": "<p>Ziet eruit als een echte straat. Super bij m’n collectie!</p>",
-            "customer_name": "Bram Peeters",
-            "review_date": "Zojuist geplaatst"
+            "review_title": "Very realistic",
+            "review_des": "<p>Looks just like a real street. Perfect addition to my collection!</p>",
+            "customer_name": "Lucas Peeters",
+            "review_date": "Recently posted"
           }
         }
       },
@@ -302,7 +302,7 @@
       "settings": {
         "enb": true,
         "review_heading": "",
-        "verified_heading": "Geverifieerd",
+        "verified_heading": "Verified",
         "main_rating_stars": "4.5",
         "title": "Adomobilia",
         "text": ""
@@ -314,22 +314,22 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Kan ik mijn bestelling retourneren?",
-            "content": "<p>Ja, retourneren is mogelijk binnen 30 dagen na ontvangst van de zending. Zie ons retourbeleid voor meer informatie.</p>"
+            "title": "Is it possible to return my order?",
+            "content": "<p><strong>Yes, returns are possible within 30 days of receiving your order. Please see our return policy for more information.</strong></p>"
           }
         },
         "item_CeWA7t": {
           "type": "item",
           "settings": {
-            "title": "Hoe lang duurt het voordat mijn bestelling wordt bezorgd?",
-            "content": "<p>Elke bestelling wordt zorgvuldig getraceerd en verpakt. De verwerking neemt gemiddeld 1-2 werkdagen in beslag. Zodra je bestelling is verzonden, ontvang je een trackingnummer via e-mail. Geschatte levertijd in Europa is 6-12 dagen.</p>"
+            "title": "What is the estimated delivery time for my order?",
+            "content": "<p><strong>Every order is carefully tracked and packed. Processing typically takes 1-2 business days. Once your order has shipped, you will receive a tracking number via email. The estimated delivery time within Europe is 6-12 days.</strong></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Andere vragen?",
-            "content": "<p>Je kunt altijd contact met ons opnemen via onze contactpagina. Daar helpen we je graag verder.</p>"
+            "title": "Other questions?",
+            "content": "<p><strong>Feel free to reach out to us via our contact page. We’re here to help!</strong></p>"
           }
         }
       },
@@ -341,10 +341,10 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Veelgestelde vragen",
-        "content": "<p>Hier vind je antwoorden op de meest gestelde vragen. Als je vraag er niet bij staat, neem dan contact met ons op. We helpen je graag!</p>",
+        "title": "Frequently Asked Questions",
+        "content": "<p>Find answers to the most common questions here. If your question isn’t listed, feel free to reach out to us. We’re here to assist you!</p>",
         "team_avatar_width": 160,
-        "support_hours": "Onze klantenservice is elke dag bereikbaar van 8.00 tot 19.00 uur.",
+        "support_hours": "We’re here to help you every day between 8:00 AM and 7:00 PM",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
