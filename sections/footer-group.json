@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free delivery",
-            "content": "<p>Place your order today and benefit from free shipping—no minimum required. Quick, simple, and cost-effective.</p>"
+            "title": "Spedizione Gratuita",
+            "content": "<p>Ordinate oggi stesso e godetevi la spedizione <strong>gratuita</strong>, senza un minimo d'ordine. Veloce, facile ed economico</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Questions?",
-            "content": "<p>Need help? Visit the 'Contact' tab and send us a message. We're here for you anytime!</p>"
+            "title": "Domande?",
+            "content": "<p>Avete una domanda? Andate alla scheda “Contatti” e contattateci facilmente. Siamo sempre a vostra disposizione!</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment is 100% secure and encrypted. Enjoy safe shopping!</p>"
+            "title": "Pagamenti Sicuri",
+            "content": "<p>Tutti i vostri pagamenti vengono elaborati in modo completamente sicuro e criptato. Acquistate in tutta tranquillità!</p>"
           }
         }
       },
@@ -74,14 +74,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About Adomobilia",
-            "content": "<p>Adomobilia is driven by a passion for model cars and dioramas. We bring miniature worlds to life with a sharp eye for detail, premium quality, and timeless style.</p>",
-            "enable_follow_on_shop": false
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -92,7 +84,6 @@
         }
       },
       "block_order": [
-        "text",
         "links"
       ],
       "settings": {
