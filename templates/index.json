@@ -202,112 +202,6 @@
         "button_text_color": ""
       }
     },
-    "image_with_text_overlay_DdMxN9": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_3Uy8BL": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Популярни"
-          }
-        },
-        "heading_em8hcM": {
-          "type": "heading",
-          "settings": {
-            "text": "Dioramas that tell a story",
-            "heading_tag": "h2"
-          }
-        },
-        "richtext_xFCbcM": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Make your collection stand out with realistic scenes and high-end displays</p>"
-          }
-        },
-        "button_TmURaq": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "Explore our dioramas",
-            "url": "shopify://collections/dioramas",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_3Uy8BL",
-        "heading_em8hcM",
-        "richtext_xFCbcM",
-        "button_TmURaq"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/O1CN01zRYrL520vI534YWKY__2214106426911-0-cib_2cd2c558-d18a-484b-9d87-b83d6e969b7d.jpg",
-        "mobile_image": "shopify://shop_images/O1CN01zRYrL520vI534YWKY__2214106426911-0-cib_2cd2c558-d18a-484b-9d87-b83d6e969b7d.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "trust_pilot_4R3za7": {
-      "type": "TrustPilot",
-      "blocks": {
-        "text_6C9P43": {
-          "type": "text",
-          "settings": {
-            "rating_stars": "5",
-            "review_title": "Nice detail work",
-            "review_des": "<p>Looks so real! My Hot Wheels have never looked better</p>",
-            "customer_name": "James Cook",
-            "review_date": "11 hours ago"
-          }
-        },
-        "text_Dtxxff": {
-          "type": "text",
-          "settings": {
-            "rating_stars": "5",
-            "review_title": "Perfect gift!",
-            "review_des": "<p>My boyfriend really loves it. Great quality and prompt delivery.</p>",
-            "customer_name": "Mia Cooper",
-            "review_date": "1 day ago"
-          }
-        },
-        "text_GQjKgk": {
-          "type": "text",
-          "settings": {
-            "rating_stars": "4.5",
-            "review_title": "Very realistic",
-            "review_des": "<p>Looks just like a real street. Perfect addition to my collection!</p>",
-            "customer_name": "Lucas Peeters",
-            "review_date": "Recently posted"
-          }
-        }
-      },
-      "block_order": [
-        "text_6C9P43",
-        "text_Dtxxff",
-        "text_GQjKgk"
-      ],
-      "custom_css": [
-        "/* Alleen tekst in de reviewkaarten zwart maken */.trustpilot .custom-review,.trustpilot .custom-review * {color: black !important;}"
-      ],
-      "settings": {
-        "enb": true,
-        "review_heading": "",
-        "verified_heading": "Verified",
-        "main_rating_stars": "4.5",
-        "title": "Adomobilia",
-        "text": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -367,8 +261,6 @@
     "image_with_text_overlay_RwgW9X",
     "images_with_text_scrolling_r9eGzQ",
     "impact-text",
-    "image_with_text_overlay_DdMxN9",
-    "trust_pilot_4R3za7",
     "faq"
   ]
 }
