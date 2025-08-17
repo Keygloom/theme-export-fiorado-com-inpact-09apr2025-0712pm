@@ -69,7 +69,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Our Bestsellers",
+        "title": "Prodotti più venduti",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -208,22 +208,22 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Is it possible to return my order?",
-            "content": "<p><strong>Yes, returns are possible within 30 days of receiving your order. Please see our return policy for more information.</strong></p>"
+            "title": "Posso restituire l'ordine?",
+            "content": "<p><strong>Sì, i resi sono possibili fino a 30 giorni dal ricevimento. Per ulteriori informazioni, consultare la nostra politica di rimborso.</strong></p>"
           }
         },
         "item_CeWA7t": {
           "type": "item",
           "settings": {
-            "title": "What is the estimated delivery time for my order?",
-            "content": "<p><strong>Every order is carefully tracked and packed. Processing typically takes 1-2 business days. Once your order has shipped, you will receive a tracking number via email. The estimated delivery time within Europe is 6-12 days.</strong></p>"
+            "title": "Quanto tempo ci vorrà per l'arrivo del mio ordine?",
+            "content": "<p><strong>Ogni ordine è accuratamente tracciato e confezionato. L'elaborazione richiede in media 1-2 giorni lavorativi. </strong></p><p><strong>Una volta spedito l'ordine, riceverete un numero di tracking nel vostro indirizzo e-mail. I tempi di consegna previsti sono di 6-12 giorni in Italia.</strong></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Other questions?",
-            "content": "<p><strong>Feel free to reach out to us via our contact page. We’re here to help!</strong></p>"
+            "title": "Altre domande?",
+            "content": "<p><strong>Potete sempre contattarci nella nostra pagina dei contatti. Saremo lieti di aiutarvi.</strong></p>"
           }
         }
       },
@@ -235,10 +235,10 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Frequently Asked Questions",
-        "content": "<p>Find answers to the most common questions here. If your question isn’t listed, feel free to reach out to us. We’re here to assist you!</p>",
+        "title": "Domande Frequenti",
+        "content": "<p>Qui troverete le risposte alle domande più frequenti. Se la vostra domanda non è presente nell'elenco, non esitate a contattarci. Saremo lieti di aiutarvi!</p>",
         "team_avatar_width": 160,
-        "support_hours": "We’re here to help you every day between 8:00 AM and 7:00 PM",
+        "support_hours": "Il nostro servizio di assistenza clienti è disponibile tutti i giorni dalle 8.00 alle 19.00.",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
