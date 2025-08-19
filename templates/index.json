@@ -88,7 +88,7 @@
         "heading_J9YPgG": {
           "type": "heading",
           "settings": {
-            "text": "Handcrafted detail at every scale",
+            "text": "Momenti di Bellezza",
             "heading_tag": "h2"
           }
         },
@@ -98,32 +98,19 @@
           "settings": {
             "content": "<p>Възстановете ноктите си и премахнете гъбичните инфекции с <strong>NailClear Pro!</strong> Това иновативно устройство използва терапия със синя светлина и инфрачервен лазер за борба с инфекцията, облекчаване на болката и заздравяване на ноктите.</p>"
           }
-        },
-        "button_FwC9gW": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "Пазарувайте тук",
-            "url": "shopify://products/nailclear-pro",
-            "background": "",
-            "text_color": ""
-          }
         }
       },
       "block_order": [
         "heading_J9YPgG",
-        "richtext_LwDJw7",
-        "button_FwC9gW"
+        "richtext_LwDJw7"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/a-photograph-of-a-curated-collection-of-_Zyyhl8_wSjulSbPHWlJ31g_V_uysVDBRJ-n3yDXuijy_g.jpg",
-        "mobile_image": "shopify://shop_images/a-photograph-of-a-curated-collection-of-_Zyyhl8_wSjulSbPHWlJ31g_V_uysVDBRJ-n3yDXuijy_g.jpg",
+        "image": "shopify://shop_images/witte-beautyshop-minimalistisch-en-elega_UYzL07EMSg2LwnlLZK6ROQ_SJWyXXt1Rv6zDKHC7_LMzQ.jpg",
+        "mobile_image": "shopify://shop_images/witte-beautyshop-minimalistisch-en-elega_UYzL07EMSg2LwnlLZK6ROQ_SJWyXXt1Rv6zDKHC7_LMzQ.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
